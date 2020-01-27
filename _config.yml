@@ -1,0 +1,28 @@
+# Blog settings
+baseurl: ""
+permalink: /testblog/:title
+show_drafts: true
+include: [".well-known"]
+keep_files: [".datignore", "dat.json", "favicon.ico"]
+
+# My variables
+title: vanessa auraphin
+name: vanessa auraphin
+description: Software, decentralization, peer-to-peer systems, and more.
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+
+gems:
+  - jekyll-redirect-from
+
+# theme: jekyll-theme-minima
