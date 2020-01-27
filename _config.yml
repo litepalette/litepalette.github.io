@@ -1,6 +1,7 @@
 # Blog settings
 baseurl: "testblog3"
-permalink: /testblog3//:year/:month/:day/:title
+url: ""
+permalink: /testblog3/:year/:month/:day/:title
 show_drafts: true
 include: [".well-known"]
 keep_files: [".datignore", "dat.json", "favicon.ico"]
