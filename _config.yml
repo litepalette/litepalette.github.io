@@ -1,6 +1,6 @@
 # Blog settings
-baseurl: testblog3
-url: ""
+baseurl: /testblog3
+#url: ""
 permalink: /testblog3/:title
 show_drafts: true
 include: [".well-known"]
@@ -28,4 +28,4 @@ gems:
 
 # theme: jekyll-theme-minima
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
