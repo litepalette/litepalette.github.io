@@ -1,7 +1,5 @@
 ---
 layout: post
-permalink: /testblog3/:title
-
 ---
 
 <br>
