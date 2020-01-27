@@ -27,3 +27,5 @@ gems:
   - jekyll-redirect-from
 
 # theme: jekyll-theme-minima
+
+theme: jekyll-theme-cayman
