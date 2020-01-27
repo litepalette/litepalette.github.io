@@ -1,7 +1,7 @@
 # Blog settings
 #baseurl: /testblog3
 url: https:/litepalette.github.io/testblog3
-permalink: /testblog3/:title
+#permalink: /testblog3/:title
 show_drafts: true
 include: [".well-known"]
 keep_files: [".datignore", "dat.json", "favicon.ico"]
