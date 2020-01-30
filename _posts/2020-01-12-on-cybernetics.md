@@ -1,6 +1,6 @@
 ---
 layout: post
-title: on cybernetics
+title: Notes on cybernetics
 
 ---
 
@@ -14,7 +14,6 @@ title: on cybernetics
 
 There is little to add to this inspired and inspiring viewpoint by @EnricoCoiera. We've recently focused on a specific type of cyber-social systems, those bound together by a sense of collaborative effort and common ground. We called'em cyborks, to recognize their liquid nature.
 
-why is this not working :(
 
 
 From <https://twitter.com/cabitzaf/status/1214898951847120897> 
