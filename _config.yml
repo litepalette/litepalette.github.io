@@ -1,6 +1,6 @@
 # Blog settings
 baseurl: /testblog3
-url: https:/litepalette.github.io
+url: https://litepalette.github.io
 #permalink: /testblog3/:title
 show_drafts: true
 include: [".well-known"]
