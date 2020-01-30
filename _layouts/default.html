@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    {% if page.title %}
+        <title>{{ page.title }}</title>
+    {% else %}
+        <title>{{ site.name }}</title>
+    {% endif %}
+
+    <meta name="description" content="{{ site.description }}">
+
+    {% if site.google_verification %}
+        <meta name="google-site-verification" content="{{ site.google_verify }}">
+    {% endif %}
+
+    <!-- social woo woo -->
+    <meta name="twitter:card" content="{{ page.twitter_card | default: "summary_large_image" }}">
+  <!--  <meta name="twitter:site" content="@pfrazee">
+    <meta name="twitter:creator" content="@pfrazee">-->
+    <meta name="og:title" content="{{ page.title | default: "Vanessa Auraphin" }}">
+    <meta name="og:description" content="{{ page.desc }}">
+ <!--   <meta name="og:image" content="{{ page.thumb | default: "https://pfrazee.hashbase.io/assets/img/default_thumb.jpg" }}">
+    <meta name="twitter:image" content="{{ page.thumb | default: "https://pfrazee.hashbase.io/assets/img/default_thumb.jpg" }}">-->
+
+    <link rel="icon" href="assets/img/favicon.png">
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="header">
+            <!--<img src="/assets/img/pfrazee.png">-->
+            <h1><a href="/">{{ site.name }}</a></h1>
+            <ul>
+                {% for item in site.data.navigation %}
+                <li>
+                    <a href="{{ item.url }}">{{ item.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+            <p class="bio">
+                Biography here. 
+                interested in software studies, philosphy of information, complex systems, art
+            </p>
+         <!--   <p class="rss">
+                <a href="/feed.xml">RSS Feed</a>
+            </p> --> 
+        </div>
+        {{ content }}
+    </div>
+
+</body>
+
+</html>
