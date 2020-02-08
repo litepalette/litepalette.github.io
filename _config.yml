@@ -2,7 +2,7 @@
 #baseurl: /testblog3
 #url: "https://litepalette.github.io"
 permalink: /:title
-show_drafts: true
+# show_drafts: true
 include: [".well-known"]
 keep_files: [".datignore", "dat.json", "favicon.ico"]
 

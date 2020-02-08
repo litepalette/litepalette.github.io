@@ -1,21 +1,49 @@
 ---
 layout: post
-title: Notes on cybernetics
-
+title: Notes on human and machine collaborations
+tags: sociotechnical systems, cybernetics, cyber-physical systems
 ---
 
-<br>
-
- 
-<Sociotechnical systems, on cybernetics, cyber-human physical systems, interdisciplinary study>
-
-
-"The degree to which humans can control a cyber-social system depends on the nature of human-machine coalitions [...But] our understanding of how blended coalitions of humans and AI function is just as unevolved and requires interdisciplinary study".
-
-There is little to add to this inspired and inspiring viewpoint by @EnricoCoiera. We've recently focused on a specific type of cyber-social systems, those bound together by a sense of collaborative effort and common ground. We called'em cyborks, to recognize their liquid nature.
+*A preamble - the following topic is incredibly vast and spans across multiple disciplines. This non-exhaustive snippet is meant to document the convergences across certain serendipities - at my workplace and in my own digital scavenging ~.*
 
 
 
-From <https://twitter.com/cabitzaf/status/1214898951847120897> 
+## fieldnotes: difficulties in defining human and machine collaboration (hmc)
 
-	• Blended coalitions of human and machines
+From observations at my field, defining human and machine collaboration has been challenging (albeit fruitful, prescient & useful). 
+
+I argue that this is because hmc is an age-old phenomenon that now requires a (maybe drastic) shift in epistemologies to grasp it - from a substance paradigm to a process-based view. It forces us to question our ways of knowing. In a substance paradigm of knowing the world, we unwittingly base our metaphysics on static entities like substances, objects, atemporal events. Case in point: at work, we have now settled for the fact that hmc refers to "a spectrum of technologies", rather than the debates on what its component technologies (e.g. machine vision, NLU, TTS, STT, etc.) are. 
+
+But implicit in this claim, is that hmc is, I argue, an **emergent behavior** of multiple layer(s) of components dynamically interacting. hmc forms an *ecology* (i.e. complex system) of humans and machines. 
+
+And it is in such precarious times of pervasive and complex technologies that such collaborations become more *material*, and hence, more metaphysically suspect. 
+
+
+
+## useful extractions on the topic
+
+### Blended coalitions of human and AI
+
+*[The cognitive health system](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32987-3/fulltext)*
+
+> The degree to which humans can control a cyber-social system depends on the nature of human-machine coalitions [...But] our understanding of how blended coalitions of humans and AI function is just as unevolved and requires interdisciplinary study".
+>
+> There is little to add to this inspired and inspiring viewpoint by @EnricoCoiera. We've recently focused on a specific type of cyber-social systems, those bound together by a sense of collaborative effort and common ground. We called'em cyborks, to recognize their liquid nature.
+>
+
+
+
+### Ancient humans and technology: A history
+
+*[Experimental evidence for the co-evolution of hominin tool-making teaching and language*](https://lalandlab.st-andrews.ac.uk/files/2015/08/morgan_uomini_et-al_2015.pdf)
+
+> Our results support the hypothesis that hominin reliance on stone tool-making generated selection for teaching and language, and imply that (i) low-fidelity social transmission, such as imitation/emulation, may have contributed to the B700,000 year stasis of the Oldowan technocomplex, and (ii) teaching or proto-language may have been pre-requisites for the appearance of Acheulean technology.
+
+
+
+### Process philosophy and self-organization
+
+[*Process philosophy*](https://plato.stanford.edu/entries/process-philosophy/#TracScieNewTopiForProcPhil) 
+
+> *Self-organization:* Process metaphysics has traditionally been motivated by the fact that it seems to give the best explanation of the phenomena of emergence, originally understood as an integral feature of evolution. Since the development of scientific theories of “self-organization,” “chaos,” and “complexity” have begun to alter our understanding of evolutionary change, there is a new need for a metaphysics that can accommodate all sorts of phenomena where dynamic organizations exert causal constraints. While older, speculative, process metaphysics embraced the idea of purposes and creativity in nature, and allowed for the explanatory category of a ‘self-realizing’ or ‘self-engendering’ entity (in various terminological guises), present-day analytical processists confine themselves to arguing that “downward causation” becomes perfectly intelligible once physicalism has been divorced from the assumptions of the substance paradigm, and most especially from the principle that causal powers cannot be attributed to dynamic organizations.
+
