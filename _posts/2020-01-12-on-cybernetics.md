@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on human and machine collaborations
+title: Notes on human and machine collaborations #1
 tags: sociotechnical systems, cybernetics, cyber-physical systems
 ---
 

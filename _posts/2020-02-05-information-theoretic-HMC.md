@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Information theory from your brain on psychedelics to life in the universe
+title: Information theory - Your brain on psychedelics to life in the universe
 ---
 
 
