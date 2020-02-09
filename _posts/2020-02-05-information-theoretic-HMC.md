@@ -7,9 +7,9 @@ title: Information theory - Your brain on psychedelics to life in the universe
 
 Pooling together insights from the following podcast episodes: 
 
-* Mindscape: Sean Carroll with Robin Carhert-Harris
-* Mindscape: Sean Carroll with Sara Imari Walker
-* Making Sense: Sam Harris, Anaka Harris with Donald Hoffman
+- Mindscape: Sean Carroll with Robin Carhert-Harris
+- Mindscape: Sean Carroll with Sara Imari Walker
+- Making Sense: Sam Harris, Anaka Harris with Donald Hoffman
 
 ---
 
@@ -19,9 +19,9 @@ Pooling together insights from the following podcast episodes:
 
 ### **Entropic brain principle**
 
-- Taking psychedelics will put your consciousness into a more 'relaxed state' 
+* Taking psychedelics will put your consciousness into a more 'relaxed state' 
 
-- - Harris calls it going into "very plastic brain states" -> implies its artificiality relating to the norm-brain state
+- Harris calls it going into "very plastic brain states" -> implies its artificiality relating to the norm-brain state
 
 - The boundedness of     imagination expands (more possibilities)
 
@@ -39,7 +39,7 @@ Pooling together insights from the following podcast episodes:
 
 ### **The behavioral danger of psychedelics** 
 
-- I think this links to a     reading or a title I have come across =. Society of control
+- I think this links to a  reading or a title I have come across =. Society of control
 
  
 

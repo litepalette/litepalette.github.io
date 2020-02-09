@@ -1,79 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-    
-        <title>Information theory - Your brain on psychedelics to life in the universe</title>
-    
-
-    <meta name="description" content="Software, decentralization, peer-to-peer systems, and more.">
-
-    
-
-    <!-- social woo woo -->
-    <meta name="twitter:card" content="summary_large_image">
-  <!--  <meta name="twitter:site" content="@pfrazee">
-    <meta name="twitter:creator" content="@pfrazee">-->
-    <meta name="og:title" content="Information theory - Your brain on psychedelics to life in the universe">
-    <meta name="og:description" content="">
- <!--   <meta name="og:image" content="https://pfrazee.hashbase.io/assets/img/default_thumb.jpg">
-    <meta name="twitter:image" content="https://pfrazee.hashbase.io/assets/img/default_thumb.jpg">-->
-
-    <link rel="icon" href="/assets/img/favicon.png">
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
-</head>
-
-<body>
-
-    <div class="wrapper">
-        <div class="header">
-            <!--<img src="/assets/img/pfrazee.png">-->
-            <h1><a href="/">vanessa auraphin</a></h1>
-            <ul>
-                
-                <li>
-                    <a href="/about.html">about</a>
-
-                    <a href="https://twitter.com/litecuboids">twitter</a>
-
-
-                </li>
-                
-            </ul>
-            <p class="bio">
-                interested in software studies, philosophy of information, complex socio-technical systems, semiotics. 
-               
-                <br><br>
-
-                this blog makes up a palette of looseleaf writing snippets - little blocks of writings on topics i find illumining. sometimes ordered, mostly not. weaving together convergences across humanities, critical theory and computer science. 
-
-                
-                
-            </p>
-         <!--   <p class="rss">
-                <a href="/feed.xml">RSS Feed</a>
-            </p> --> 
-        </div>
-        <div class="blog">
-	<div class="post__back">
-    	<a href="/">&lt;-- home</a>
-    </div>
-    <div class="post__title">
-    	<h1>Information theory - Your brain on psychedelics to life in the universe</h1>
-    </div>
-    <div class="post__date">
-    	<p>February 5, 2020, vanessa auraphin</p>
-    </div>
-    <div class="post__meta">
-    	<p></p>
-    </div>
-    <div class="post__content">
-        <p>Pooling together insights from the following podcast episodes:</p>
+I"�<p>Pooling together insights from the following podcast episodes:</p>
 
 <ul>
   <li>Mindscape: Sean Carroll with Robin Carhert-Harris</li>
@@ -92,7 +17,9 @@
     <p>Taking psychedelics will put your consciousness into a more ‘relaxed state’</p>
   </li>
   <li>
-    <p>Harris calls it going into “very plastic brain states” -&gt; implies its artificiality relating to the norm-brain state</p>
+    <ul>
+      <li>Harris calls it going into “very plastic brain states” -&gt; implies its artificiality relating to the norm-brain state</li>
+    </ul>
   </li>
   <li>
     <p>The boundedness of     imagination expands (more possibilities)</p>
@@ -118,7 +45,7 @@
 <h3 id="the-behavioral-danger-of-psychedelics"><strong>The behavioral danger of psychedelics</strong></h3>
 
 <ul>
-  <li>I think this links to a  reading or a title I have come across =. Society of control</li>
+  <li>I think this links to a     reading or a title I have come across =. Society of control</li>
 </ul>
 
 <h3 id="access-to-archetypes-when-access-to-collective-unconsious-is-unlocked"><strong>Access to archetypes when access to collective unconsious is “unlocked”</strong></h3>
@@ -183,22 +110,4 @@
   <li>The claim that higher level processes emerges out of lower level physical processes have been     challenged</li>
 </ul>
 
-
-    </div>
-    <br>
-	<div class="post__back">
-        -vanessa<br>
-        <br>
-        <hr>
-        <br>
-        <p>Tweets: <a href="https://twitter.com/litecuboids">twitter.com/litecuboids</a></p>
-        
-       
-    </div>
-</div>
-
-    </div>
-
-</body>
-
-</html>
+:ET

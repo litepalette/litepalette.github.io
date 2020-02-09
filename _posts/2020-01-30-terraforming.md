@@ -22,5 +22,3 @@ Tangentially, I was inspired when listening to Dr. Walker's [podcast](https://ww
 Some lessons we can have from this:
 
 The biosphere is a unit of life; and if you think about it, terraforming other planetary systems is a reproducible quality of earth. 
-
-
