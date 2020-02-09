@@ -52,11 +52,14 @@ pre, code {
 	text-align: center;
 }
 ul, ol {
-	list-style-type: circle-black;
+	list-style: circle-black;
+
 	li {
 		padding-left: 10px;
-		line-height: 1.4;
+		line-height: 1.5;
 	}
+
+	
 }
 blockquote {
 	border-left: 15px solid #ddd;
@@ -165,7 +168,6 @@ table th {
 		border-bottom: 3px solid $color-black;
 	}
 	ul li {
-		list-style-type: circle-black;
 		display: flex;
 		line-height: 1.75;
 
@@ -265,24 +267,31 @@ table th {
 			}
 		}
 		ul {
-			list-style-type: circle-black;
+			list-style: circle-black;
+			display: list-items;
 			margin-left: 30px;
+			line-height: 1.5;
+
 		}
 		ol {
-			list-style-type: circle-black;
+			display: list-items;
 			margin-left: 40px;
 		}
 		ul, ol {
-			list-style-type: circle-black;
+			
 			font-size: 14px;
 			margin-bottom: 15px;
+			line-height: 1.5;
+
 			li {
 				@media screen and (max-width: $br) {
 					padding: 10px 0 10px 0;
 				}
 			}
-			ul {
+			ul li {
 				margin-bottom: 0;
+				line-height: 1.5;
+
 			}
 			@media screen and (max-width: $br) {
 				margin-left: 20px;
