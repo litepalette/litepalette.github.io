@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terraformation, Emergence and 
+title: Terraformation, Emergence and the Anthropocene
 ---
 
 ## preface
