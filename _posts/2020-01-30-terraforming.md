@@ -21,9 +21,9 @@ During my trip to Bali, I noticed similar patterns emerging across "natural" lan
 
 
 
-![bali-1](C:\Users\Vanessa\litepalette.github.io\assets\img\bali-1.jpg){width =50%}
+![bali-1](C:\Users\Vanessa\litepalette.github.io\assets\img\bali-1.jpg)
 
-![bali-2](C:\Users\Vanessa\litepalette.github.io\assets\img\bali-2.jpg){width=50%}
+![bali-2](C:\Users\Vanessa\litepalette.github.io\assets\img\bali-2.jpg)
 
 
 
