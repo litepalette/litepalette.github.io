@@ -3,6 +3,10 @@ layout: post
 title: Information theory - Your brain on psychedelics to life in the universe
 ---
 
+information theory seems to permeate multiple topics i've been reading on.
+
+IT is a classic 
+
 
 
 Pooling together insights from the following podcast episodes: 

@@ -4,13 +4,13 @@ title: Notes on human and machine collaborations #1
 tags: sociotechnical systems, cybernetics, cyber-physical systems
 ---
 
-*A preamble - the following topic is incredibly vast and spans across multiple disciplines. This non-exhaustive snippet is meant to document the convergences across certain serendipities - at my workplace and in my own digital scavenging ~.*
+*A preamble - the following topic is incredibly vast and spans across multiple disciplines. This non-exhaustive snippet is meant to document the convergences I have noticed - at my workplace and in my own research scavenging ~.*
 
 
 
 ## fieldnotes: difficulties in defining human and machine collaboration (hmc)
 
-From observations at my field, defining human and machine collaboration has been challenging (albeit fruitful, prescient & useful). 
+From observations at my field, defining human and machine collaboration has been challenging (albeit prescient & useful). 
 
 I argue that this is because hmc is an age-old phenomenon that now requires a (maybe drastic) shift in epistemologies to grasp it - from a substance paradigm to a process-based view. It forces us to question our ways of knowing. In a substance paradigm of knowing the world, we unwittingly base our metaphysics on static entities like substances, objects, atemporal events. Case in point: at work, we have now settled for the fact that hmc refers to "a spectrum of technologies", rather than the debates on what its component technologies (e.g. machine vision, NLU, TTS, STT, etc.) are. 
 
