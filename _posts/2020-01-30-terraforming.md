@@ -5,11 +5,7 @@ title: Terraformation, Emergence and the Anthropocene
 
 ## preface
 
-I think often about Taolin's remarks in [*Trip*](https://www.penguinrandomhouse.com/books/547888/trip-by-tao-lin/), on how "everything is fractal
-
-[^1]: Benoit Mandelbrot (1924-2010) invented the word "fractal", from the Latin adjective - *fractus* - whose corresponding verb - *frangere* meant "to create irregular fragments". 
-
-". This notion of fractality as that strange, ineffable phenomenon that underpins the logic of [microcosms](https://en.wikipedia.org/wiki/Macrocosm_and_microcosm) nicely ties with the concept of emergence; this refers to an entity or system having properties that its parts do not have on their own - we say we observe emergent properties when there is epistemic or ontological irreducibility to lower levels.
+I think often about Taolin's remarks in [*Trip*](https://www.penguinrandomhouse.com/books/547888/trip-by-tao-lin/), on how "everything is fractal". This notion of fractality as that strange, ineffable phenomenon that underpins the logic of [microcosms](https://en.wikipedia.org/wiki/Macrocosm_and_microcosm) nicely ties with the concept of emergence; this refers to an entity or system having properties that its parts do not have on their own - we say we observe emergent properties when there is epistemic or ontological irreducibility to lower levels.
 
 
 
