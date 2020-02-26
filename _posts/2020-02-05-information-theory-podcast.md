@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Information theory - Your brain on psychedelics to life in the universe
+title: Notes on Information theory - Your brain on psychedelics to life in the universe
 ---
 
-information theory seems to permeate multiple topics i've been reading on.
-
-IT is a classic 
+Information theory seems to permeate multiple podcasts I've been listening to. It is also referred to in some media studies text I read; planning to understand this further, more intimately. 
 
 
 
-Pooling together insights from the following podcast episodes: 
+Pooling together insights/learnings from the following podcast episodes: 
 
 - Mindscape: Sean Carroll with Robin Carhert-Harris
 - Mindscape: Sean Carroll with Sara Imari Walker
@@ -17,38 +15,31 @@ Pooling together insights from the following podcast episodes:
 
 ---
 
- *The emergence of culture is consistent with the fact that we feed off of the thermodynamic gradient*
+>  *The emergence of culture is consistent with the fact that we feed off of the thermodynamic gradient*
+>
 
 
 
 ### **Entropic brain principle**
 
 * Taking psychedelics will put your consciousness into a more 'relaxed state' 
-* Harris calls it going into "very plastic brain states" -> implies its artificiality relating to the norm-brain state
+* Carhert-Harris calls it going into "very plastic brain states", implying its artificiality relating to the norm-brain state
 * The boundedness of imagination expands (more possibilities) 
-* We project things onto the metaphysical space" 
-* In an **information-theoretic view**, this means higher     entropy, more uncertainty and unpredictability 
+* We project things onto the metaphysical space
+* In an **information-theoretic view**, this means higher entropy, more uncertainty and unpredictability 
 * Stream of consciousness 
 * Typically when one suffers from neuroses (e.g. depression, psychosis, anxiety, existential dread), it     reflects perhaps something akin to cognitive rigidity 
 
- What does this entropic state tells us about reflexivity, the 'ego' self? 
+--- What does this entropic state tells us about reflexivity, the 'ego' self? 
 
- 
-
-
-
-### **The behavioral danger of psychedelics** 
-
-- I think this links to a  reading or a title I have come across; Society of control
-
- 
+  
 
 
 
-### **Access to archetypes when access to collective unconsious is "unlocked"** 
+### **Access to archetypes when access to collective unconscious is "unlocked"** 
 
-- I like how he calls them archetypes, as they *are* consistent across psychedelic experiences among humans 
-- Archetypes reinforce the notion of metaphors, stories, "the task of poets" in perhaps uncovering the collective unconscious / tracing its origin / inception of our Universe
+- Consistent psychedelic experiences across humans implies an archetypal reserve 
+- Archetypes reinforce the notion of metaphors and stories in perhaps uncovering the collective unconscious / tracing its origin / inception of our Universe
 
 What can the description of such archetypes tell us about its physics? Is a non-anthropocentric description possible? Or do archetypes necessarily peg onto (the observer's) culture when activated - reminiscent of the anthropic principle from physics?
 
@@ -56,20 +47,14 @@ What can the description of such archetypes tell us about its physics? Is a non-
 
 
 
-### **A hierarchical organisation in the cortex, beings and nature**
+### **Hierarchical organisation in the higher cortex, in living things and nature**
 
 - The cortex has an hierarchical organisation
-
-  - Literal or abstractedly?
-
-  
-
 - The association cortex is at the top of this hierarchy
-
   - Mysterious and no modular, clear function 
   - Unlike the visual system 
 
-Does something being fiction means it is less real than something? Who decides the ontological hierarchy? (which warrants violence and moral positions… etc.) Layering ontologies being symptomatic of the hierarchical nature of the ordered universe? 
+Does something being fiction means it is less real than something? Who decides the ontological hierarchy? Layering ontologies being symptomatic of the hierarchical nature of the ordered universe? 
 
  
 
@@ -77,12 +62,10 @@ Does something being fiction means it is less real than something? Who decides t
 
 ### **Counterfactual thinking seems to be unique to our species**
 
-- The Bayesian brain 
+- Ref. to the Bayesian brain theory
 - Perhaps links nicely to the point that probabilities are, also, a useful fiction 
 - Includes imagination 
 - High-level functions 
-
-
 
 
 
@@ -93,14 +76,10 @@ Does something being fiction means it is less real than something? Who decides t
 
 
 
+### **Information-theoretic approach for consciousness**
 
+- High level processes like reasoning about things, having intentions, representation, seems irreducible to its (physical) neural substrates 
 
-### **Information-theoretic approach for consciousness or something**
-
-- Low level VS high level processes **Emergence**     
-
-- I feel I've read things on this somewhere - representation and intentions being higher level      brain processes that would correlate to their (physical) neural substrates
-
-* The claim that higher level processes emerges out of lower level physical processes have been     challenged
+- Relates to topics in the philosophy of mind; challenging the above view would be physicalism or any kinds of materialism
 
  

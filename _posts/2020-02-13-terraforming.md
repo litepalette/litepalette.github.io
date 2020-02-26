@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terraformation, Emergence and the Anthropocene
+title: Notes on Terraformation and Emergence 
 ---
 
 ## preface
@@ -25,7 +25,7 @@ During my trip to Bali, I noticed similar patterns emerging across "natural" lan
 
 Thus, I had a loose conception, an idea: 
 
-terraformation is an emergent property of our earth's biosphere. 
+terraformation, or anthropogenic 'Earth-shaping', is an emergent property of our earth's biosphere. 
 
 
 
@@ -49,7 +49,11 @@ Terraforming, then, is defined as such:
 
 > The term 'terraforming' usually refers to transforming the ecosystems of other planets or moons to make them capable of supporting Earth-like life. However, the looming ecological consequences of human activities suggest that in the decades to come we might need to terraform our own planet if it is to remain a viable host for Earth-like life."
 
-One of his main assumption for this research program, in fact, interlocks with that from the field of astrobiophysics: **the planet is artificially sentient**. 
+One of his main assumption for this research program, in fact, interlocks with that from the field of astrobiophysics: **the planet is artificially sentient**.
+
+Quinte
+
+
 
 Elsewhere, astrobiologist Sara Walker had an amazing [podcast](https://www.preposterousuniverse.com/podcast/2020/01/13/79-sara-imari-walker-on-information-and-the-origin-of-life/) with Sean Carroll, and refers to terraforming: 
 
