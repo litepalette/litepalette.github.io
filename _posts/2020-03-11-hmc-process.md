@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rethinking the liquid natures of the human and machine ecology (in-progress)
+title: Rethinking the liquid natures of the human and machine ecology (draft)
 ---
 
 *<sup>(i have written a little about it [here](https://litepalette.github.io/on-hmc) and am still actively trying to formulate my thoughts around it)</sup>*
