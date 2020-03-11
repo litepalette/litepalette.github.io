@@ -4,10 +4,6 @@ title: A cybernetic ecology of human and machine collaborations
 tags: hmc
 ---
 
-
-
-## introduction 
-
 > I like to think (and
 > the sooner the better!)
 > of a cybernetic meadow
@@ -36,5 +32,8 @@ tags: hmc
 > and all watched over
 > by machines of loving grace.
 
+I started this wanting to document my ideas everyday. I did not want this to be what it feels like today, something of an obligation, that even when I'm exhausted as hell, eyes fluttering, I'm still tired (or is that already a misguided thing?)
 
+---
 
+In observing localised ecologies of how humans and machines interact with one another, I'd want to bring attention to a gap that is continental philosophy and \                             

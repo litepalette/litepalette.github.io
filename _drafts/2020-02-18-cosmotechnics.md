@@ -1,8 +1,37 @@
 ---
 layout: post
-title: [Paper] On Cosmotechnics: A renewed relation, by Yuk Hui	
-
+title: What are Singaporeans' sense of place? 	
 ---
+
+
+
+I scribbled onto my journal – *Balinese people engage in a dance with their environment. their sense of place rooted, interweavingly, with the nature around them.*
+
+
+
+Yuk 
+
+The ontological turn in anthropology - shifting towards the politics of ontologies - can open up a possible dialogue, a renewed relation between nature and technology. 
+
+The paper has the task of opening up a possible dialogue and renewed relation between nature and technology. 
+
+![image-20200307194105827](C:\Users\Vanessa\AppData\Roaming\Typora\typora-user-images\image-20200307194105827.png)
+
+
+
+### The Anthropological Turn
+
+Fails to recognise that the Anthropocene is a gigantic cybernetic system in the process of realisation. 
+
+Technics/nature cleared up, planetary tech development. 
+
+
+
+### On Cosmologies - Plurality of Ontologies 
+
+<p style="padding: 1rem; border: 1px solid #ddd;">
+Schemas that define the mode of participation of humans and non-humans
+
 
 
 
