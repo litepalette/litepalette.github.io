@@ -1,7 +1,15 @@
 ---
 layout: post
-title: What are Singaporeans' sense of place? 	
+title: Reconciling nature an technicity 
 ---
+
+
+
+I was curious at the divergences between *cosmology* between these two completely distinct places. 
+
+
+
+This is not to say a comparative thing between them two, but instead 
 
 
 
@@ -24,6 +32,10 @@ The paper has the task of opening up a possible dialogue and renewed relation be
 Fails to recognise that the Anthropocene is a gigantic cybernetic system in the process of realisation. 
 
 Technics/nature cleared up, planetary tech development. 
+
+
+
+planetary-scale technology development seems to be the only possible goal. 
 
 
 
