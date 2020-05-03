@@ -18,7 +18,7 @@ During my trip to Bali, I noticed similar patterns emerging across "natural" lan
 
 
 ![bali-1](\assets\img\bali-1.jpg)
-<sup> *pictured: melasti beach, cliffs being tapered off by land developers to make way for luxury resorts the area is famous for</sup>*
+<sup> *pictured: melasti beach, cliffs being tapered off by land developers to make way for luxury resorts the area is famous for*r</sup>
 
 ![bali-2](\assets\img\bali-2.jpg)
 <sup> *pictured: alien rock formations on the earthly ground* </sup>
