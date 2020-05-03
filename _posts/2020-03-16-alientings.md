@@ -4,15 +4,28 @@ title: I as Alien Intelligence
 
 ---
 
-<sup>*Fieldnotes from an alien creature attempting to understand human history of ideas, and thought…* 
+
+
+> *Poetry does not strut logically amongst convictions, it seeps through crevices;* (Shamanic Nietzche)
+
+
+
+<sup>*afternote: just discovered this [site](https://deepchimera.com/Cypherpositive.html) which describes the style in this post as "Cybernetic encryption", or, recounting a poetry of metatagging. This resonates with me, and is similar to the alien intelligence thingy I'm doing.*
+
+ 
 
 <sup>*Practicing loose association, as I often feel in a hypnagogic state (though quite perilous if one is always in a state of wakelessness / sleepfulness.) But practicing, also, hypertextuality, or making a statement about it, or something.*
 
-<sup>*I penned this down while reading George Dyson's book Darwin among the Machines: The Evolution of Global Intelligence. When I write this, I also am thinking about Alien Phenomenology by Ian Bogost, Insect Media by Jussi Parikka, etc., etc...*
+<sup>*I penned this down while reading George Dyson's book Darwin among the Machines: The Evolution of Global Intelligence. When I write this, I also am thinking about Alien Phenomenology by Ian Bogost*
+
+
+
+
 
 ---
+## Fieldnotes from an alien creature attempting to understand present human history
 
-## <br><br>observations. from. here. 
+### <br><br>observations. from. here. 
 
 Analog computers as found in *nature* [^1], nature as found to be self-organising, *self-reproducing*[^2], self-reproduction as autocatalytic reactions at the beginning of life on *earth*[^3], earth today as highly networked, older networks overlaid with newer ones dubbed *5G*[^4], 5G as the communication network that will be ubiquitous and supporting modularization and servitisation of *things*[^5], *things* becoming evermore fuzzy philosophically…[^6]
 

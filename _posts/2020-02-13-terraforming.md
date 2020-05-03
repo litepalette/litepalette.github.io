@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on Terraformation, Emergence and Human Agency (edited)
+title: Terraformation, Emergence and Human Agency (edited)
 ---
 
 ## preface
