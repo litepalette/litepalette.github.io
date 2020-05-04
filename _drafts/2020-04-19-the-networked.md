@@ -1,6 +1,6 @@
 ---
 alayout: post
-title: As Ephemeral as The Digital (Not)
+title: Digital Mattering  As Ephemeral as The Digital (Not)
 ---
 
 
@@ -26,8 +26,6 @@ the following video essays/ documentaries really inspire me to re-create one in 
 
 
 ---
-
-
 
 
 

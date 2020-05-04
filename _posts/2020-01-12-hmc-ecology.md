@@ -3,7 +3,7 @@ layout: post
 title: Rethinking the liquid natures of the human and machine ecology (draft)
 ---
 
-<sup> *A preamble - the following topic is incredibly vast and spans across multiple disciplines. This non-exhaustive snippet is meant to document the convergences I have noticed - at my workplace and in my own research scavenging . am still actively trying to formulate my thoughts around it)* </sup>
+<sup> *A preamble - the following topic is incredibly vast and spans across multiple disciplines. This non-exhaustive snippet is meant to document the convergences I have noticed - at my workplace and in my own research scavenging . am still actively trying to formulate my thoughts around it* </sup>
 
 with advances in philosophy, computer engineering and intelligent automation, we should be taking a renewed look at our digital milieu and our relationship within it. I believe it warrants a stronger recognition of the 21st century condition as what it always has been time perennial: multiple *ecologies* of humans and technologies.
 
