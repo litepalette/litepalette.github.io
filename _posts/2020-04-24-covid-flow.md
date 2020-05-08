@@ -19,7 +19,7 @@ COVID-19 being a zoonotic disease also makes a strong case for humans' interconn
 
 String figures, commonly known as the object of “cat’s cradle”, is a game where a string is weaved around the fingers of different people — or animals, fungi, bacteria, conceptually — constantly overlapping and intersecting with itself. Donna Haraway famously co-opted this [term](https://www.dukeupress.edu/staying-with-the-trouble) to conjure a symbol of the relations between different worlds on *terra*, highlighting the need to produce new connections and alliances for a multispecies flourishing. 
 
-![cats-cradle](C:\Users\Vanessa\litepalette.github.io\assets\img\cats-cradle.png)
+![cats-cradle](\assets\img\cats-cradle.png)
 
 <sup>*Multispecies Cat’s Cradle. Drawing by Nasser Mufti, 2011.*</sup> 
 
