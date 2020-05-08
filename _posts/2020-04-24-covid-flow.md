@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Study on Flow in The Age of Covid-19 
+title: A Study on Flow in The Time of Covid-19 
 ---
 
 <sup>*I decided to write on this topic as I was intrigued with the significance of flow in our current moment, but struggled articulate it. Philosophically, experientially, aesthetically. In the process of writing, did I then find the expression for it: the simple act of noticing flow, of shifting to a relational paradigm of looking (try it!), where transmissions of power and infectious agents ebb and swell, ride on mediums, forgetting sediments, can we hope to muster a more differentiated and kinder response-ability to help other humans and nonhumans alike. "It matters what ideas we use to think other ideas with." Using flow to think, what kind of world can we become?* </sup>
