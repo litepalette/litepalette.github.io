@@ -1,5 +1,5 @@
 ---
-layout: post
+5layout: post
 title: Cosmologies across Bali and Singapore, Cosmologies, Cosmotechnics
 ---
 
@@ -7,7 +7,7 @@ title: Cosmologies across Bali and Singapore, Cosmologies, Cosmotechnics
 
 *originally written on 15 mar2020*
 
-I tend to leave writing ideas to collect dust. Sometimes when I manifest intentions 
+
 
 I am thinking about *cosmology* from my encounters at a talk in Bali on Balinese Cosmology and a paper by Yuk Hui, "On Cosmotechnics". Using the *cosmos* as the fulcrum of thought, what can we uncover about the relations between different universes? For this, we first turn to the Ontological Turn. 
 
@@ -21,7 +21,7 @@ Schemas that define the mode of participation of humans and non-humans
 
 We associate 
 
-Anthropological cosmologies refer to the schema in which a particular culture finds order in the universe, within their relative sphere. In the talk given by xxx, he says how his grandparents talk refer to Java as the edge of the world. 
+In the talk given by xxx, he says how his grandparents talk refer to Java as the edge of the world. 
 
 Taken seriously, a thoughtful consideration of how every person is embodying different kinds of universes within them, can perhaps 
 
