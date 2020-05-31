@@ -1,0 +1,39 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Word count": true,
+    "Command palette": true,
+    "Markdown format converter": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "fb8d75d73c39d8c0",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "c6832e7cd1cd80fd",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-05-10-cosmotechnics.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  }
+}

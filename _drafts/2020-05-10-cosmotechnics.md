@@ -7,6 +7,7 @@ title: Cosmologies across Bali and Singapore, Cosmologies, Cosmotechnics
 
 *originally written on 15 mar2020*
 
+#linking 
 
 
 I am thinking about *cosmology* from my encounters at a talk in Bali on Balinese Cosmology and a paper by Yuk Hui, "On Cosmotechnics". Using the *cosmos* as the fulcrum of thought, what can we uncover about the relations between different universes? For this, we first turn to the Ontological Turn. 

@@ -1,0 +1,75 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "moonstone",
+  "workspaceLayout": {
+    "id": "2426d929679054ac",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "a05cd72eff29e676",
+        "type": "leaf",
+        "dimension": null,
+        "active": false,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-01-12-hmc-ecology.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "675a9cf0101b1b5e",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "a05cd72eff29e676",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-01-12-hmc-ecology.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "2020-05-07-covid-flow.md",
+    "2020-05-10-cosmology.md"
+  ],
+  "hotkeys": {
+    "app:toggle-left-sidebar": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "PageUp"
+      }
+    ],
+    "app:toggle-right-sidebar": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "PageDown"
+      }
+    ]
+  }
+}
