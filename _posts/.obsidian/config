@@ -7,9 +7,10 @@
     "Backlinks": true,
     "Command palette": true,
     "Markdown format importer": true,
-    "Word count": true
+    "Word count": true,
+    "Custom CSS": true
   },
-  "isSidebarCollapsed": false,
+  "isSidebarCollapsed": true,
   "isRightSidedockCollapsed": true,
   "lastOpenSidebarTab": "File explorer",
   "lastOpenRightSidedockTab": "Backlinks",
@@ -24,12 +25,12 @@
         "id": "a05cd72eff29e676",
         "type": "leaf",
         "dimension": null,
-        "active": false,
+        "active": true,
         "master": "",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-01-12-hmc-ecology.md",
+            "file": "2020-06-01-unfoldings.md",
             "mode": "preview"
           }
         }
@@ -38,20 +39,23 @@
         "id": "675a9cf0101b1b5e",
         "type": "leaf",
         "dimension": null,
-        "active": true,
+        "active": false,
         "master": "a05cd72eff29e676",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-01-12-hmc-ecology.md",
-            "mode": "source"
+            "file": "2020-06-01-unfoldings.md",
+            "mode": "preview"
           }
         }
       }
     ]
   },
   "lastOpenFiles": [
-    "2020-05-07-covid-flow.md",
+    "2020-06-01-unfoldings.md",
+    "2020-06-01-It's-not-the-nodes.-It's-the-connections.-On-unfoldings,-stories,-love..md",
+    "2020-02-05-information-theory-podcast.md",
+    "Untitled.md",
     "2020-05-10-cosmology.md"
   ],
   "hotkeys": {
