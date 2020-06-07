@@ -3,7 +3,6 @@ layout: post
 title: It's not the nodes, it's the connections. On unfoldings, stories, being-with. 
 ---
 
-## story of the evolutionary cosmos
    ![image1](\assets\img\cover img.jpg)
 
 
@@ -16,13 +15,15 @@ title: It's not the nodes, it's the connections. On unfoldings, stories, being-w
 
 I have been craving for stories, getting lost in lands and narratives in an escapist stupor (recently read Le Guin's Earthsea stories in a week); which was partly why I found the quote above incredibly soothing, that we wake up already inside an unfolding cosmic Story.  
 
-If we can (meta-)cognitively attune to unfurling-*with* and -*within* this cosmic Story, I wonder how we can re-orient ourselves, cultivate togetherness, care, love. 
+If we can (meta-)cognitively attune to unfurling-*with* and -*within* this Story, I wonder how we can re-orient ourselves, cultivate togetherness, care, love. But—what do we mean by stories? It is the realisation that instead of having a universe filled with things, we are enveloped by a universe that is a singular, energetic event, ongoing till now. Within this cosmic Story, our Earth, itself borne out of energy and gas, possesses the creative intelligence to bring forth the complexity of life we see here. 
 
 *It matters what stories tell stories,* espoused Donna Haraway. 
 
-To identify the logic of stories as one's epistemology is to expand one's modes for knowing the world. One comes to know the world through stories, through netbags of metaphors in all its fuzzy logic. You invite imagination and poetry in the sensations of grass beneath your feet, in noticing the way the trees slow-waltz to certain rhythms of wind, in the line of ants marching up your walls. This allows for more ecological thinking, more thinking-with other critters, all of us entangled in an unfolding story, coming into full expression with one another.  
+To identify the logic of stories as one's epistemology is to expand one's modes for knowing the world. One then comes to know the world through stories, through netbags of metaphors in all its fuzzy logic. You invite imagination and poetry in the sensations of grass beneath your feet, in noticing the way the trees slow-waltz to certain rhythms of wind, in the line of ants marching up your walls. This allows for more ecological thinking, more thinking-with other critters, all of us entangled in an unfolding story, coming into full expression with one another.  
 
 ---
+
+What's more, Swimme talks about our true nature, so obvious but so overlooked, that we unfold-*with* others through *relationships*; through ecological assemblages and co-evolutions, in variants of cooperation or competition. 
 
 > *The universe we live in gives birth to itself through relationships.*
 > *At the level of elementary particles, the neutron, by itself, disintegrates within 3 to 4 minutes. This is due to radioactive decay. On the other hand, if you bring the neutron in relationship with a proton, it will exist for a billion years. The very nature of the neutron relies upon forming a relationship with a proton for it to express itself.* 
@@ -31,7 +32,7 @@ To identify the logic of stories as one's epistemology is to expand one's modes 
 >
 > — [Brian Swimme](https://shows.acast.com/futurefossils/episodes/133)
 
-Swimme talks about our true nature, so obvious but so overlooked, that we unfold-*with* others through relationships; through ecological assemblages and co-evolutions, in variants of cooperation or competition. Haraway echoes this, that *companion species are relentlessly becoming-with; Ontologically heterogenous partners become who and what they are in relational material-semiotic worlding. Natures, cultures, subjects, and objects do not preexist their intertwined worldings.*
+Haraway echoes this, that *companion species are relentlessly becoming-with; Ontologically heterogenous partners become who and what they are in relational material-semiotic worlding. Natures, cultures, subjects, and objects do not preexist their intertwined worldings.*
 
 *Sympoiesis*, or, collective-reproducing (Beth Dempster, 1998). 
 
@@ -44,13 +45,17 @@ On similar threads, Kauffman, theoretical biologist, origin of life researcher, 
 > *This ultimate, an unknowable unfolding, slips its foundational moorings and floats free.* 
 >
 > *We do not live alone, we make our living world together... We all are joined together in the evolving, emerging, unfolding of the biosphere as a whole.*
+>
+> 
+>
+> — Stuart Kauffman, *A World Beyond Physics (2019)*
 
 Hyphenated words opens up the semiotic space; how else can we articulate a language of collective-becoming, of sympoiesis? *If categories are unstable, we must watch them emerge within encounters*, [Anna Tsing](https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world) insists.
 
 ---
 Finally, a homage to the episode on Midnight Gospel that inspired this post, and lit up the synapses between the different authors I'm reading, 
 
-> *So the Buddha looks at Indra's Net and it's basically the same topography, but he says, "it's not the nodes. It's the connections.*
+> *So the Buddha looks at Indra's Net and it's basically the same topography, but he says, "it's not the nodes. It's the connections.*"
 
 <center> ♥♥♥ </center>
 
