@@ -62,8 +62,6 @@ Finally, a homage to the episode on Midnight Gospel that inspired this post, and
 
 ![i3](\assets\img\Pasted image 2 3.png)
 
-![i4](\assets\img\Pasted image 3 2.png)
-
 ![i4](\assets\img\Pasted image 2.png)
 
 ![i5](\assets\img\Pasted image 3.png)
