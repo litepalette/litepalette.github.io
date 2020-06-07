@@ -16,7 +16,7 @@ title: It's not the nodes, it's the connections. On unfoldings, stories, being-w
 
 I have been craving for stories, getting lost in lands and narratives in an escapist stupor (recently read Le Guin's Earthsea stories in a week); which was partly why I found the quote above incredibly soothing, that we wake up already inside an unfolding cosmic Story.  
 
-If we can cognitively attune to this unfurling-*with* and -*within* this cosmic Story, I wonder how we can re-orient ourselves, cultivate togetherness, care, love. 
+If we can (meta-)cognitively attune to unfurling-*with* and -*within* this cosmic Story, I wonder how we can re-orient ourselves, cultivate togetherness, care, love. 
 
 *It matters what stories tell stories,* espoused Donna Haraway. 
 
@@ -31,13 +31,13 @@ To identify the logic of stories as one's epistemology is to expand one's modes 
 >
 > — [Brian Swimme](https://shows.acast.com/futurefossils/episodes/133)
 
-Swimme talks about our true nature, so obvious but so overlooked, that we unfold-*with* others in this Story of the evolutionary cosmos. Through relationships with one another, we come into full expression of ourselves. Haraway echoes this, that *companion species are relentlessly becoming-with; Ontologically heterogenous partners become who and what they are in relational material-semiotic worlding. Natures, cultures, subjects, and objects do not preexist their intertwined worldings.*
+Swimme talks about our true nature, so obvious but so overlooked, that we unfold-*with* others through relationships; through ecological assemblages and co-evolutions, in variants of cooperation or competition. Haraway echoes this, that *companion species are relentlessly becoming-with; Ontologically heterogenous partners become who and what they are in relational material-semiotic worlding. Natures, cultures, subjects, and objects do not preexist their intertwined worldings.*
 
-*Sympoiesis*, or, collective-reproducing (Beth Dempster, 1998). In other words, relational worldings, collectively becoming-with others. 
+*Sympoiesis*, or, collective-reproducing (Beth Dempster, 1998). 
 
-On similar threads, Kauffman, theoretical biologist, origin of life researcher, extends the magic of stories, becoming-with, into the messy empiricism when science-meets-complexity
+In other words, "relational worldings", creating worlds through and with relations at every fractal scale.
 
-We invoke the spirit of collective autocatalytic[^1] sets—collectively reproducing, collectively arising—to read matter, culture, consciousness
+On similar threads, Kauffman, theoretical biologist, origin of life researcher, extends the magic of stories, becoming-with, into the messy empiricism when science-meets-complexity. We invoke the spirit of collective autocatalytic[^1] sets—collectively reproducing, collectively arising—to read matter, culture, consciousness,
 
 > *[...] the realisation that we are members of a living world of untellable creativity in its becoming. Life is abundant, the **universe is rife with becoming**, based on physics but beyond any physics we know. [...] Creatures, by existing, **create the very conditions for other creatures to come into existing**. [...] The blossoming biosphere creates its own ever-new possibilities of becoming, yet more diverse and abundant.* 
 >
@@ -45,7 +45,7 @@ We invoke the spirit of collective autocatalytic[^1] sets—collectively reprodu
 >
 > *We do not live alone, we make our living world together... We all are joined together in the evolving, emerging, unfolding of the biosphere as a whole.*
 
-Hyphenated words opens up the semiotic space; how else can we articulate a language of collective-becoming, of sympoiesis? *If categories are unstable, we must watch them emerge within encounters*, Anna Tsing insists.
+Hyphenated words opens up the semiotic space; how else can we articulate a language of collective-becoming, of sympoiesis? *If categories are unstable, we must watch them emerge within encounters*, [Anna Tsing](https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world) insists.
 
 ---
 Finally, a homage to the episode on Midnight Gospel that inspired this post, and lit up the synapses between the different authors I'm reading, 
