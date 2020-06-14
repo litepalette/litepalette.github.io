@@ -13,7 +13,7 @@ title: It's not the nodes, it's the connections. On unfoldings, stories, being-w
 >
 > — [Brian Swimme](https://shows.acast.com/futurefossils/episodes/133)
 
-I have been craving for stories, getting lost in lands and narratives in an escapist stupor (recently read Le Guin's Earthsea stories in a week); which was partly why I found the quote above incredibly soothing, that we wake up already inside an unfolding cosmic Story.  
+I have been craving for stories, getting lost in lands and narratives in an escapist stupor (recently read Le Guin's Earthsea stories in a week); which was partly why I found the quote above incredibly soothing, that we wake up everyday already inside an unfolding cosmic Story.  
 
 If we can cognitively attune to unfurling-*with* and -*within* this Story, I wonder how we can re-orient ourselves, cultivate togetherness, care, love. 
 
@@ -29,7 +29,7 @@ To identify the logic of stories as one's epistemology is to expand one's modes 
 
 ---
 
-Through us conscious beings, the universe enacts its true nature, by endowing us the capacity to make meaning-*with* relationships,
+Through us conscious beings, the universe enacts its true nature, by endowing us the capacity to create meaning through relationships,
 
 > *The universe we live in gives birth to itself through relationships.*
 > *At the level of elementary particles, the neutron, by itself, disintegrates within 3 to 4 minutes. This is due to radioactive decay. On the other hand, if you bring the neutron in relationship with a proton, it will exist for a billion years. The very nature of the neutron relies upon forming a relationship with a proton for it to express itself.* 
@@ -38,15 +38,15 @@ Through us conscious beings, the universe enacts its true nature, by endowing us
 >
 > — [Brian Swimme](https://shows.acast.com/futurefossils/episodes/133)
 
-So obvious but so overlooked, we unfold-*with*, make meaning-*with* others through *relationships*; through ecological assemblages and co-evolutions, in different flavours of cooperation or competition. 
+So obvious but so overlooked, we unfold-with others through *relationships*; through ecological assemblages and co-evolutions, in different flavours of cooperation or competition. 
 
 Haraway echoes this, that *companion species are relentlessly becoming-with; Ontologically heterogenous partners become who and what they are in relational material-semiotic worlding. Natures, cultures, subjects, and objects do not preexist their intertwined worldings.*
 
-*Sympoiesis*, or, collective-reproducing (Beth Dempster, 1998). In other words, "relational worldings".
+*Sympoiesis*, or, collective-reproducing (Beth Dempster, 1998). In other words, "relational worldings"—I read this as co-creating meaning-laden worlds when one forms relations with another. 
 
-Hyphenated words open up the semiotic space; how else can we articulate a language of collective-becoming, of sympoiesis? *If categories are unstable, we must watch them emerge within encounters*, [Anna Tsing](https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world) insists.
+(Hyphenated words open up the semiotic space; how else can we articulate a language of collective-becoming, of sympoiesis? *If categories are unstable, we must watch them emerge within encounters*, [Anna Tsing](https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world) insists.)
 
-On similar threads, Kauffman, theoretical biologist, origin of life researcher, extends the magic of stories, becoming-with, into the messy empiricism when science-meets-complexity. We invoke the spirit of collective autocatalytic[^1] sets from the field of biology—collectively reproducing, collectively arising—to read matter, culture, consciousness,
+On similar threads, Kauffman, theoretical biologist, origin of life researcher, extends the magic of stories, becoming-with, into the messy empiricism when science-meets-complexity. We invoke the spirit of collective autocatalytic sets[^1] from the field of biology—collectively reproducing, collectively arising—to read matter, culture, consciousness,
 
 > *[...] the realisation that we are members of a living world of untellable creativity in its becoming. Life is abundant, the **universe is rife with becoming**, based on physics but beyond any physics we know. [...] Creatures, by existing, **create the very conditions for other creatures to come into existing**. [...] The blossoming biosphere creates its own ever-new possibilities of becoming, yet more diverse and abundant.* 
 >
@@ -95,7 +95,7 @@ Finally, a homage to the episode on Midnight Gospel that inspired this post, and
 
 <sup> P.S. Recently, during meditation, my mind sometimes fall into some ad infinitum non-space (as vast as our consciousness can be), and I realised how art, or beauty, or the dewdrop of a moment (sensory alignment, before it plops! and ends), seems like an interface into the larger consciousness. I wondered why in certain environments, I enter such states of mind more easily (e.g. when there is wind, sitting under open sky on my porch, humidity not too heavy, etc.) than other times, which led me to the (admittedly meek) insight that perhaps symmetry (broadly), experienced subjectively, acts as interface or gateway into something cosmic.</sup>
 
-<sup>I realise also realised that wonder is important to me. to cultivate wonder is to cultivate joy & love. :)  also, wondering why theory engages minimally with spirituality. </sup>
+<sup>I also realised that wonder is important to me. to cultivate wonder is to cultivate joy & love. :)  also, wondering why theory engages so little with spirituality. </sup>
 
 ---
 

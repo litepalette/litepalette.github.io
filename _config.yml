@@ -9,7 +9,7 @@ keep_files: [".datignore", "dat.json", "favicon.ico"]
 # My variables
 title: vanessa auraphin
 name: vanessa auraphin
-description: Software studies, socio-technical system and everything in-between. 
+description: Software studies, socio-technical systems and everything in-between. 
 
 # Sass
 sass:
