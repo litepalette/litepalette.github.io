@@ -1,12 +1,12 @@
-title: Simply Jekyll
-name: John Doe
-user_description: Programmer (Interested in Philosophy and Math)
-notes_url: "https://simply-jekyll.netlify.app"
-profile_pic: /assets/img/profile.png
+title: litepalette
+name: vanessa auraphin
+user_description: interested in complexity, socio-technical systems or human-machine ecologies.
+notes_url: "https://litepalette.github.io"
+profile_pic: 
 favicon: /assets/img/favicon.png
-copyright_name: John Doe
+copyright_name: 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://litepalette.github.io" # ://simply-jekyll.netlify.app/, the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings

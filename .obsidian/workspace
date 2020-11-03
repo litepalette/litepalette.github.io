@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "921a8fe7853f9c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "3816ba7ab1f702b2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "69887cb415bd1b50",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_drafts/References for markdown features.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "566b336d99c52b87",
+    "type": "split",
+    "children": [
+      {
+        "id": "1847c83c509f3878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "211238c396ece14a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "01095f3aae715501",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "5f80333ba96a4cb0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.01219177246094
+  },
+  "right": {
+    "id": "eab6ae4530363237",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c128734be474df7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48879b49f32b8097",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md"
+              }
+            }
+          },
+          {
+            "id": "9d8e4cd8b91260cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1ed39caa48a26e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md",
+    "_drafts/Humility is the knowing of the epistemic gap.md",
+    "_drafts/References for markdown features.md",
+    "_drafts/Dark theme adoption as a function of cognitive exhaustion.md",
+    "_drafts/Serendipity-based outlook as a driver for large-scale personal projects.md",
+    "_posts/2020-06-01-unfoldings.md",
+    "_notes/2020-02-05-information-theory-podcast.md",
+    "_drafts/2020-05-01-Introduction-to-simply-jekyll.md",
+    "_drafts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
+    "_drafts/2020-03-01-How-to-setup-simply-jekyll.md"
+  ]
+}
