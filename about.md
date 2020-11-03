@@ -1,15 +1,15 @@
 ---
 layout: post
-title: hello 🌌
+title: 
 permalink: /about/
 content-type: eg
 ---
 
+*click [home](/) to read my writings, & view the more messier notes [here](http://litepalette.github.io/notes) 🦋*
+
 currently and independently researching topics around technology, software studies in singapore. 
 
 this blog makes up a palette of looseleaf writing snippets - little blocks of writings on topics i find illumining. sometimes ordered, mostly not. weaving together convergences across humanities, critical theory and computer science.
-
-click [home](/) to read my writings, & view the more messier notes [here](http://litepalette.github.io/notes) 🦋
 
 tangentially, i'm also interested in and engage with topics in: consciousness, AI/machine ethics, ecosophy.
 

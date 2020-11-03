@@ -7,6 +7,7 @@ Information theory seems to permeate multiple podcasts I've been listening to. I
 
 
 
+
 Pooling together insights/learnings from the following podcast episodes: 
 
 - Mindscape: Sean Carroll with Robin Carhert-Harris

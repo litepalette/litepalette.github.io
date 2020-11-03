@@ -37,7 +37,7 @@
 <body>
     <div class="container">                    
         <div class = "box">
-            {%- include header.html -%}
+                    {%- include header.html -%}
             {%- include feed.html -%}
 
             {%- if page.content-type == "notes" 
@@ -45,11 +45,14 @@
                 or page.content-type == "eg" -%}
             <main>
                 <h1>{{page.title}}</h1>
+            
                 {%- include content.html -%}
                 {%- include backlinks.html -%}
                 {%- include related.html -%}
             </main>
+             
             {%- endif -%}
+        
             {%- include comments.html -%}
             {%- include footer.html -%}
         </div>

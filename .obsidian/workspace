@@ -6,11 +6,12 @@
       {
         "id": "3816ba7ab1f702b2",
         "type": "leaf",
+        "dimension": 64.20204978038068,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md",
+            "file": "_notes/2020-11-04-weekly.md",
             "mode": "source"
           }
         }
@@ -18,6 +19,7 @@
       {
         "id": "69887cb415bd1b50",
         "type": "leaf",
+        "dimension": 35.79795021961933,
         "state": {
           "type": "markdown",
           "state": {
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md"
+                "file": "_notes/2020-11-04-weekly.md"
               }
             }
           },
@@ -101,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md"
+                "file": "_notes/2020-11-04-weekly.md"
               }
             }
           }
@@ -113,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/2020-11-04-weekly.md",
+    "_posts/Untitled.md",
+    "_notes/2020-02-05-information-theory-podcast.md",
+    "_notes/Untitled.md",
     "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md",
     "_drafts/Humility is the knowing of the epistemic gap.md",
     "_drafts/References for markdown features.md",
     "_drafts/Dark theme adoption as a function of cognitive exhaustion.md",
     "_drafts/Serendipity-based outlook as a driver for large-scale personal projects.md",
-    "_posts/2020-06-01-unfoldings.md",
-    "_notes/2020-02-05-information-theory-podcast.md",
-    "_drafts/2020-05-01-Introduction-to-simply-jekyll.md",
-    "_drafts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
-    "_drafts/2020-03-01-How-to-setup-simply-jekyll.md"
+    "_posts/2020-06-01-unfoldings.md"
   ]
 }
