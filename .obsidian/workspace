@@ -6,20 +6,20 @@
       {
         "id": "3816ba7ab1f702b2",
         "type": "leaf",
-        "dimension": 64.20204978038068,
+        "dimension": 78.19884083816316,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2020-11-04-weekly.md",
+            "file": "_drafts/2020-11-04-weekly.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "69887cb415bd1b50",
+        "id": "828847fab80b1aaf",
         "type": "leaf",
-        "dimension": 35.79795021961933,
+        "dimension": 21.80115916183683,
         "state": {
           "type": "markdown",
           "state": {
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2020-11-04-weekly.md"
+                "file": "_drafts/2020-11-04-weekly.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2020-11-04-weekly.md"
+                "file": "_drafts/2020-11-04-weekly.md"
               }
             }
           }
@@ -116,14 +116,14 @@
   },
   "lastOpenFiles": [
     "_notes/2020-11-04-weekly.md",
-    "_posts/Untitled.md",
-    "_notes/2020-02-05-information-theory-podcast.md",
-    "_notes/Untitled.md",
-    "_drafts/2020-01-01-Test-page-to-see-how-the-markdown-is-rendered.md",
-    "_drafts/Humility is the knowing of the epistemic gap.md",
-    "_drafts/References for markdown features.md",
-    "_drafts/Dark theme adoption as a function of cognitive exhaustion.md",
-    "_drafts/Serendipity-based outlook as a driver for large-scale personal projects.md",
-    "_posts/2020-06-01-unfoldings.md"
+    "_notes/2020-11-05-weekly-1.md",
+    "_posts/2020-05-07-covid-flow.md",
+    "_posts/2020-05-10-cosmology.md",
+    "_posts/2020-11-05-test-post.md",
+    "_posts/2020-06-01-unfoldings.md",
+    "_posts/2020-03-16-alientings.md",
+    "_posts/2020-02-26-mindandnature.md",
+    "_posts/2020-02-13-terraforming.md",
+    "_posts/2020-01-12-hmc-ecology.md"
   ]
 }

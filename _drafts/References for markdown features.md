@@ -30,6 +30,9 @@ linked references - directly linked in [[square brackets]]
 [[::srs]]
 
 
+# transclude
+
+[[::rmn-transclude]]
 
 
 

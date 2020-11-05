@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Notes on Information theory - Your brain on psychedelics to life in the universe
+title: Notes on Information theory
+excerpt: Your brain on psychedelics to life in the universe
 ---
 
 Information theory seems to permeate multiple podcasts I've been listening to. It is also referred to in some media studies text I read; planning to understand this further, more intimately. 

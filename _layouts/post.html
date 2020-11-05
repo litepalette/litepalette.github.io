@@ -6,7 +6,7 @@
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Knowledge Continuum" property="og:site_name"/>
-    <meta content="A non-linear thread of important ideas weaved together to explore and understand the fabric of knowledge." property="og:description">
+    <meta content="Socio-technical systems, complexity, critical theory." property="og:description">
     <meta content="{{ site.url }}/about/" property="article:author">
 
     {%- if page.title -%}
@@ -22,7 +22,9 @@
 
     <link rel="canonical" href="{{site.url}}{{page.url}}"/>
     <link rel="apple-touch-icon" href="{{site.profile_pic}}">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu" />
 
     <link rel="icon" href="{{site.favicon}}" type="image/png" sizes="16x16"/>
     <link href="/assets/css/style.css" rel="stylesheet" media="all" class="default"/>
@@ -35,9 +37,10 @@
 </head>
 
 <body>
-    <div class="container">                    
+    <div class="container">        
+               
         <div class = "box">
-                    {%- include header.html -%}
+            {%- include header.html -%}
             {%- include feed.html -%}
 
             {%- if page.content-type == "notes" 
@@ -45,19 +48,21 @@
                 or page.content-type == "eg" -%}
             <main>
                 <h1>{{page.title}}</h1>
-            
+                
                 {%- include content.html -%}
                 {%- include backlinks.html -%}
                 {%- include related.html -%}
             </main>
              
             {%- endif -%}
+     
         
             {%- include comments.html -%}
             {%- include footer.html -%}
         </div>
         <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
     </div>
+
     <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
     <script>
         document.getElementById("scroll-to-top").addEventListener("click", function() {

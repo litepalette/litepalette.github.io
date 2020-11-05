@@ -2,7 +2,7 @@
 layout: post
 title: Cosmologies, Part I
 status: ongoing
-
+excerpt: <!--blnk-->
 ---
 
 I tend to leave my ideas to collect dust. I've been thinking about this since the talk I had on *Balinese Cosmology* by the artist Wayan Karja in 2019 and a [paper](http://digitalmilieu.net/?p=1266) by Yuk Hui. 

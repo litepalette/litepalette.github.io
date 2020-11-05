@@ -1,6 +1,7 @@
 ---
 layout: post
-title: It's not the nodes, it's the connections. On unfoldings, stories, being-with. 
+title: It's not the nodes, it's the connections. 
+excerpt: On unfoldings, stories, being-with. 
 ---
 
    ![image1](\assets\img\cover img.jpg)

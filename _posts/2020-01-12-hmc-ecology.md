@@ -3,6 +3,7 @@ layout: post
 title: Rethinking the liquid natures of the human and machine ecology
 tags: ecology
 status: ongoing
+excerpt: On human and machines
 ---
 
 <sup> *A preamble - the following topic is incredibly vast and spans across multiple disciplines. This non-exhaustive snippet is meant to document the convergences I have noticed - at my workplace and in my own research scavenging . am still actively trying to formulate my thoughts around it* </sup>

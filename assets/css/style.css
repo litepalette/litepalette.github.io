@@ -17,10 +17,16 @@ html {
 
 body {
     counter-reset: sidenote-counter; 
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAUVBMVEWFhYWDg4N3d3dtbW17e3t1dXWBgYGHh4d5eXlzc3OLi4ubm5uVlZWPj4+NjY19fX2JiYl/f39ra2uRkZGZmZlpaWmXl5dvb29xcXGTk5NnZ2c8TV1mAAAAG3RSTlNAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEAvEOwtAAAFVklEQVR4XpWWB67c2BUFb3g557T/hRo9/WUMZHlgr4Bg8Z4qQgQJlHI4A8SzFVrapvmTF9O7dmYRFZ60YiBhJRCgh1FYhiLAmdvX0CzTOpNE77ME0Zty/nWWzchDtiqrmQDeuv3powQ5ta2eN0FY0InkqDD73lT9c9lEzwUNqgFHs9VQce3TVClFCQrSTfOiYkVJQBmpbq2L6iZavPnAPcoU0dSw0SUTqz/GtrGuXfbyyBniKykOWQWGqwwMA7QiYAxi+IlPdqo+hYHnUt5ZPfnsHJyNiDtnpJyayNBkF6cWoYGAMY92U2hXHF/C1M8uP/ZtYdiuj26UdAdQQSXQErwSOMzt/XWRWAz5GuSBIkwG1H3FabJ2OsUOUhGC6tK4EMtJO0ttC6IBD3kM0ve0tJwMdSfjZo+EEISaeTr9P3wYrGjXqyC1krcKdhMpxEnt5JetoulscpyzhXN5FRpuPHvbeQaKxFAEB6EN+cYN6xD7RYGpXpNndMmZgM5Dcs3YSNFDHUo2LGfZuukSWyUYirJAdYbF3MfqEKmjM+I2EfhA94iG3L7uKrR+GdWD73ydlIB+6hgref1QTlmgmbM3/LeX5GI1Ux1RWpgxpLuZ2+I+IjzZ8wqE4nilvQdkUdfhzI5QDWy+kw5Wgg2pGpeEVeCCA7b85BO3F9DzxB3cdqvBzWcmzbyMiqhzuYqtHRVG2y4x+KOlnyqla8AoWWpuBoYRxzXrfKuILl6SfiWCbjxoZJUaCBj1CjH7GIaDbc9kqBY3W/Rgjda1iqQcOJu2WW+76pZC9QG7M00dffe9hNnseupFL53r8F7YHSwJWUKP2q+k7RdsxyOB11n0xtOvnW4irMMFNV4H0uqwS5ExsmP9AxbDTc9JwgneAT5vTiUSm1E7BSflSt3bfa1tv8Di3R8n3Af7MNWzs49hmauE2wP+ttrq+AsWpFG2awvsuOqbipWHgtuvuaAE+A1Z/7gC9hesnr+7wqCwG8c5yAg3AL1fm8T9AZtp/bbJGwl1pNrE7RuOX7PeMRUERVaPpEs+yqeoSmuOlokqw49pgomjLeh7icHNlG19yjs6XXOMedYm5xH2YxpV2tc0Ro2jJfxC50ApuxGob7lMsxfTbeUv07TyYxpeLucEH1gNd4IKH2LAg5TdVhlCafZvpskfncCfx8pOhJzd76bJWeYFnFciwcYfubRc12Ip/ppIhA1/mSZ/RxjFDrJC5xifFjJpY2Xl5zXdguFqYyTR1zSp1Y9p+tktDYYSNflcxI0iyO4TPBdlRcpeqjK/piF5bklq77VSEaA+z8qmJTFzIWiitbnzR794USKBUaT0NTEsVjZqLaFVqJoPN9ODG70IPbfBHKK+/q/AWR0tJzYHRULOa4MP+W/HfGadZUbfw177G7j/OGbIs8TahLyynl4X4RinF793Oz+BU0saXtUHrVBFT/DnA3ctNPoGbs4hRIjTok8i+algT1lTHi4SxFvONKNrgQFAq2/gFnWMXgwffgYMJpiKYkmW3tTg3ZQ9Jq+f8XN+A5eeUKHWvJWJ2sgJ1Sop+wwhqFVijqWaJhwtD8MNlSBeWNNWTa5Z5kPZw5+LbVT99wqTdx29lMUH4OIG/D86ruKEauBjvH5xy6um/Sfj7ei6UUVk4AIl3MyD4MSSTOFgSwsH/QJWaQ5as7ZcmgBZkzjjU1UrQ74ci1gWBCSGHtuV1H2mhSnO3Wp/3fEV5a+4wz//6qy8JxjZsmxxy5+4w9CDNJY09T072iKG0EnOS0arEYgXqYnXcYHwjTtUNAcMelOd4xpkoqiTYICWFq0JSiPfPDQdnt+4/wuqcXY47QILbgAAAABJRU5ErkJggg==), radial-gradient(circle, white, #ffcfa3);
-    background-position: fixed;
+    background-color: #888888;
+    /*background-image: radial-gradient(circle, white, white, #c2c0ba); 
+    /*background-image: url(data:image/png;base64,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), radial-gradient(circle, white, #ffcfa3);
+  */background-position: fixed;
     
-/* nice green #519e87*/
+/*     pink #f67e7d, #621940
+nice green #519e87
+
+(circle, #a13670, #543884);
+*/
 }
 
 
@@ -41,21 +47,34 @@ body {
    }
 
 .box {
-    /*border-left: 1px solid #f7f7f7;
+    
+    background-color: white;
+    width: 50%;
+    position: absolute;
+    top: 10px; 
+    border-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAACFUlEQVR4Xu2dwW7DMAxD0///6PWwXZYWIWjRjh2/XiXT0hPtBMOKvg4+UQKvqBpiB0DDJgDohkB/Tj1PbYKpi/sDCdDwKQIoQMMEdpZb4Q5daj4ADY8LoAsCVU/pu+NRpCMcejcwtT9ATwQUMBUH6NOBDnVA1E6/YtH6E3dotKAOwJRktH6A4lBlODs+nUPtDswF0YbNve30xJG3NzUXANQEptIBqgiZ8ccDXapBc3jl99KWOxSgF1MC6CeckmEAOgHQhmtpnyUtDt2HTkOnAG2AdrUEoBMALT0Fw/X3kCv11+LQ0oY9CIQ1S/0BdILXptIEw27qIVfqr8WhPZp4jCZAw6MEKEDDBMJy3xyqLuVqPNyCLVet/3I9QI+PrxaVgAMUoPYRPy8oOVD96w5P+fJ8/gsAFKBhAmE5HDoBUHWph0scLlfqr8WhpQ2H4/E3LPUHUP4e6lvOXDHcoWZ9e6W3HPm9CJndAtQEptIBqgiZ8RagpUvbrO+O9FJ/AOW1qbtpcWgY8XCg4fqlXKlBqR5OaLlDwyVIOYBKRF4CQD1eMns7oEs1/GV80foTd2i0IOnXfEK0foDyffm4RadzqOpQFXx3XNVvxRNHXm14NzC1v6rfigPUwqWTAaoZWRkjgFoFrZ4M0PAEAQrQMIGw3AoOHfraU+UL0CrB03qAAnTuH4RZwaFhD/WVA2iYL0ABGiYQlnsDohuAVeOdDyIAAAAASUVORK5CYII=) 28 / 28px / 0 round;
+    border-image-source: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAABUCAYAAAAcaxDBAAACFUlEQVR4Xu2dwW7DMAxD0///6PWwXZYWIWjRjh2/XiXT0hPtBMOKvg4+UQKvqBpiB0DDJgDohkB/Tj1PbYKpi/sDCdDwKQIoQMMEdpZb4Q5daj4ADY8LoAsCVU/pu+NRpCMcejcwtT9ATwQUMBUH6NOBDnVA1E6/YtH6E3dotKAOwJRktH6A4lBlODs+nUPtDswF0YbNve30xJG3NzUXANQEptIBqgiZ8ccDXapBc3jl99KWOxSgF1MC6CeckmEAOgHQhmtpnyUtDt2HTkOnAG2AdrUEoBMALT0Fw/X3kCv11+LQ0oY9CIQ1S/0BdILXptIEw27qIVfqr8WhPZp4jCZAw6MEKEDDBMJy3xyqLuVqPNyCLVet/3I9QI+PrxaVgAMUoPYRPy8oOVD96w5P+fJ8/gsAFKBhAmE5HDoBUHWph0scLlfqr8WhpQ2H4/E3LPUHUP4e6lvOXDHcoWZ9e6W3HPm9CJndAtQEptIBqgiZ8RagpUvbrO+O9FJ/AOW1qbtpcWgY8XCg4fqlXKlBqR5OaLlDwyVIOYBKRF4CQD1eMns7oEs1/GV80foTd2i0IOnXfEK0foDyffm4RadzqOpQFXx3XNVvxRNHXm14NzC1v6rfigPUwqWTAaoZWRkjgFoFrZ4M0PAEAQrQMIGw3AoOHfraU+UL0CrB03qAAnTuH4RZwaFhD/WVA2iYL0ABGiYQlnsDohuAVeOdDyIAAAAASUVORK5CYII=);
+    border-image-slice: 28;
+    border-image-width: 28px;
+    border-image-outset: 0;
+    border-image-repeat: round;
+    border-width: 35px;
+    border-style: solid;
+
+    }
+
+/* /*border-left: 1px solid #f7f7f7;
     border-right: 1px solid #f7f7f7;
     border-bottom: 1px solid #f7f7f7;
     */
-    background-color: white;
-    border-color: #E28CA1;
-    border-width: 2px;
-    border-radius: 15px;
-    box-shadow: 
+/*border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+*/ /* border-radius: 15px;
+   border colour E28CA1*/
+    /*box-shadow: 
         0px 0px 40px rgba(0,0,0,0.1), 
-        0px 0px 80px rgba(0,0,0,0.1);
-    width: 55%;
-    position: absolute;
-    top: 10px; 
-    }
+        0px 0px 80px rgba(0,0,0,0.1);*/
 
 header {
     display: flex;
@@ -97,13 +116,13 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
     color: #555555;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  Ubuntu, Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
 }  
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #555555;
-    font-family:  'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Source Sans Pro', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 16px;  /* Let's set the font-size to something old-man friendly */
 }
 
@@ -279,8 +298,8 @@ hr {
 }
 
 .site-heading h4 {
-    color: #555555;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    color: #f67e7d;
+    font-family:  Ubuntu, Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-stretch: ultra-condensed;
     float: right;
     margin-bottom: 10px;
@@ -363,7 +382,7 @@ hr {
 }
 
 .link-to-notes a {
-    color: #4183c4;
+    color: #f67e7d;
     text-decoration: none;
     font-family: 'IBM Plex Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 15px;
@@ -541,7 +560,7 @@ hr {
 }
 
 .title-sans {
-    font-family: Inconsolata, Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: Ubuntu, Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 }
 
 .regular-sans {
@@ -623,10 +642,11 @@ hr {
     position: relative;
     padding-left: 50px;
     box-sizing : border-box;
+    border-radius: 40px;
     width: 100%;
     height: 40px;
     border: 0px;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-family:  'Source Sans Pro', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #555;
     font-size: 18px;
     border-bottom: 1px solid #f7f7f7;
@@ -706,8 +726,8 @@ hr {
 .feed-title-excerpt-block {
     width: 100%;
     cursor: pointer;
-    border-top: 1px solid #f7f7f7;
-    border-bottom: 1px solid #f7f7f7;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
 }
 
 .feed-title-excerpt-block:hover {
@@ -738,8 +758,8 @@ hr {
     color: #555555;
     margin-left: 20px;
     margin-right: 50px;
-    font-size: 16px;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.4rem;
+    font-family:  Ubuntu, Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
 }
 
@@ -748,8 +768,9 @@ hr {
     margin-top: -12px;
     margin-left: 20px !important;
     margin-right: 30px;
-    font-family:  'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 15px;
+    margin-bottom: 44px;
+    font-family:  'Source Sans Pro', Inter, 'IBM Plex Sans', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1rem;
 }
 
 .tags {
@@ -778,8 +799,9 @@ hr {
 }
 
 .content a {
-    color: #4183c4;
+    color: #f67e7d;
     text-decoration: none;
+    /* blue 4183c4    Links here */ 
 }
 
 .content a:hover {

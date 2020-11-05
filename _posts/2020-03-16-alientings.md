@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I as Alien Intelligence 
-
+excerpt: On human and machines
 ---
 
 
