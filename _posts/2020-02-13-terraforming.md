@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Terraformation, Emergence and Human Agency (edited)
-tags: terraformation, fractals, natureculture
-excerpt: On human and machines
+tags: terraformation fractals natureculture
+excerpt: <!---->
 ---
 
 ## preface

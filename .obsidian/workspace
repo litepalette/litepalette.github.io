@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/2020-11-04-weekly.md",
+            "file": "_posts/2020-02-26-mindandnature.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2020-11-04-weekly.md"
+                "file": "_posts/2020-02-26-mindandnature.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2020-11-04-weekly.md"
+                "file": "_posts/2020-02-26-mindandnature.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/2020-11-04-weekly.md",
-    "_notes/2020-11-05-weekly-1.md",
+    "_posts/2020-02-26-mindandnature.md",
+    "_notes/2020-02-05-information-theory-podcast.md",
+    "_posts/2020-02-13-terraforming.md",
+    "_posts/2020-03-16-alientings.md",
     "_posts/2020-05-07-covid-flow.md",
     "_posts/2020-05-10-cosmology.md",
-    "_posts/2020-11-05-test-post.md",
     "_posts/2020-06-01-unfoldings.md",
-    "_posts/2020-03-16-alientings.md",
-    "_posts/2020-02-26-mindandnature.md",
-    "_posts/2020-02-13-terraforming.md",
-    "_posts/2020-01-12-hmc-ecology.md"
+    "_notes/2020-11-04-weekly.md",
+    "_notes/2020-11-05-weekly-1.md",
+    "_posts/2020-11-05-test-post.md"
   ]
 }

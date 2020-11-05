@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ecological Anthropology & Cybernetics with Gregory Bateson
-tags: natureculture
-excerpt: On human and machines
+title: Ecological Anthropology & Cybernetics
+tags: [Nature Culture]
+excerpt: Brief encounters with Gregory Bateson
 ---
 
 had a serendipitous encounter with [Gregory Bateson's](https://en.wikipedia.org/wiki/Gregory_Bateson) work on twitter earlier this evening. have since put his books *Mind and Nature* (1979) and *Steps into an Ecology of Mind* (1972) to my reading lists, *tsundoku* weighing heavy (...)
