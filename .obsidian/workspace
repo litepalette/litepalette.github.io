@@ -6,20 +6,20 @@
       {
         "id": "3816ba7ab1f702b2",
         "type": "leaf",
-        "dimension": 78.19884083816316,
+        "dimension": 53.03584491587417,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-02-26-mindandnature.md",
-            "mode": "source"
+            "file": "_notes/2020-11-09-on-writing.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "828847fab80b1aaf",
+        "id": "89985604996a6038",
         "type": "leaf",
-        "dimension": 21.80115916183683,
+        "dimension": 46.96415508412583,
         "state": {
           "type": "markdown",
           "state": {
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-02-26-mindandnature.md"
+                "file": "_notes/2020-11-09-on-writing.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-02-26-mindandnature.md"
+                "file": "_notes/2020-11-09-on-writing.md"
               }
             }
           }
@@ -115,15 +115,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-02-26-mindandnature.md",
-    "_notes/2020-02-05-information-theory-podcast.md",
-    "_posts/2020-02-13-terraforming.md",
-    "_posts/2020-03-16-alientings.md",
-    "_posts/2020-05-07-covid-flow.md",
-    "_posts/2020-05-10-cosmology.md",
+    "_notes/2020-11-09-on-writing.md",
     "_posts/2020-06-01-unfoldings.md",
-    "_notes/2020-11-04-weekly.md",
-    "_notes/2020-11-05-weekly-1.md",
-    "_posts/2020-11-05-test-post.md"
+    "_posts/2020-05-10-cosmology.md",
+    "_posts/2020-02-13-terraforming.md",
+    "_drafts/Reading the material to completion over interest-based pickups-n-drops.md",
+    "_drafts/Reading with fractalized mental pattern.md",
+    "_drafts/References for markdown features.md",
+    "_drafts/Dark theme adoption as a function of cognitive exhaustion.md",
+    "_drafts/Epistemic humility to avoid unintended ontological dust while writing.md",
+    "_notes/2020-11-09-meditations.md"
   ]
 }
