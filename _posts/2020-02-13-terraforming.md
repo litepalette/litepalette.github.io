@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terraformation, Emergence and Human Agency (edited)
-tags: terraformation fractals natureculture
+tags: terraformation fractals [Nature Culture]
 excerpt: <!---->
 ---
 
