@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-11-05-weekly-1.md",
+            "file": "_notes/2020-11-09-meditations.md",
             "mode": "source"
           }
         }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-11-05-weekly-1.md"
+                "file": "_notes/2020-11-09-meditations.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-11-05-weekly-1.md"
+                "file": "_notes/2020-11-09-meditations.md"
               }
             }
           }
@@ -133,15 +133,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/2020-11-09-meditations.md",
+    "_drafts/2020-05-01-Introduction-to-simply-jekyll.md",
+    "_drafts/2020-11-09-meditations.md",
     "_drafts/2020-11-05-weekly-1.md",
     "_drafts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
     "_drafts/2020-09-11.md",
     "_drafts/2020-11-04-weekly.md",
     "_notes/2020-11-09-on-writing.md",
     "_posts/2020-06-01-unfoldings.md",
-    "_posts/2020-05-10-cosmology.md",
-    "_posts/2020-02-13-terraforming.md",
-    "_drafts/Reading the material to completion over interest-based pickups-n-drops.md",
-    "_drafts/Reading with fractalized mental pattern.md"
+    "_posts/2020-05-10-cosmology.md"
   ]
 }
