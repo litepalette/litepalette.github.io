@@ -6,27 +6,45 @@
       {
         "id": "3816ba7ab1f702b2",
         "type": "leaf",
-        "dimension": 53.03584491587417,
+        "dimension": 48.97209985315712,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2020-11-09-on-writing.md",
-            "mode": "preview"
+            "file": "_posts/2020-11-05-weekly-1.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "89985604996a6038",
-        "type": "leaf",
-        "dimension": 46.96415508412583,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_drafts/References for markdown features.md",
-            "mode": "source"
+        "id": "1a80bd4b3b5f9910",
+        "type": "split",
+        "dimension": 51.027900146842875,
+        "children": [
+          {
+            "id": "ab1b70e2a2463ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "89985604996a6038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/References for markdown features.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2020-11-09-on-writing.md"
+                "file": "_posts/2020-11-05-weekly-1.md"
               }
             }
           },
@@ -103,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2020-11-09-on-writing.md"
+                "file": "_posts/2020-11-05-weekly-1.md"
               }
             }
           }
@@ -115,15 +133,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_drafts/2020-11-05-weekly-1.md",
+    "_drafts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
+    "_drafts/2020-09-11.md",
+    "_drafts/2020-11-04-weekly.md",
     "_notes/2020-11-09-on-writing.md",
     "_posts/2020-06-01-unfoldings.md",
     "_posts/2020-05-10-cosmology.md",
     "_posts/2020-02-13-terraforming.md",
     "_drafts/Reading the material to completion over interest-based pickups-n-drops.md",
-    "_drafts/Reading with fractalized mental pattern.md",
-    "_drafts/References for markdown features.md",
-    "_drafts/Dark theme adoption as a function of cognitive exhaustion.md",
-    "_drafts/Epistemic humility to avoid unintended ontological dust while writing.md",
-    "_notes/2020-11-09-meditations.md"
+    "_drafts/Reading with fractalized mental pattern.md"
   ]
 }
