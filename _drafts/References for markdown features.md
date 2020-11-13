@@ -3,11 +3,13 @@ example:
 ![wayankarja](\assets\img\wayankarja.jpg)
 
 # link
+- **Internal links:** **[​[**​Some Link**]]**
 
+- **External links:** **[​[​**Some Text::https://address-to-the-website**]]**
 
 # box
 
-{:boxit}
+{:.boxit}
 
 
 # marginnote and sidenote

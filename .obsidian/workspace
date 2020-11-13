@@ -6,23 +6,25 @@
       {
         "id": "3816ba7ab1f702b2",
         "type": "leaf",
-        "dimension": 45.37444933920705,
+        "dimension": 66.11213801601971,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2020-10-01-weekly-1.md",
-            "mode": "preview"
+            "file": "_notes/2020-11-09-on-writing.md",
+            "mode": "source"
           }
         }
       },
       {
         "id": "1a80bd4b3b5f9910",
         "type": "split",
-        "dimension": 54.62555066079295,
+        "dimension": 33.88786198398029,
         "children": [
           {
             "id": "7b0bf35e5dde0668",
             "type": "leaf",
+            "dimension": 30.911901081916536,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,6 +36,7 @@
           {
             "id": "ab1b70e2a2463ab9",
             "type": "leaf",
+            "dimension": 38.17619783616693,
             "state": {
               "type": "markdown",
               "state": {
@@ -45,7 +48,7 @@
           {
             "id": "89985604996a6038",
             "type": "leaf",
-            "active": true,
+            "dimension": 30.911901081916536,
             "state": {
               "type": "markdown",
               "state": {
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/References for markdown features.md"
+                "file": "_notes/2020-11-09-on-writing.md"
               }
             }
           },
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/References for markdown features.md"
+                "file": "_notes/2020-11-09-on-writing.md"
               }
             }
           }
@@ -144,15 +147,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_drafts/References for markdown features.md",
-    "_notes/2020-11-05-weekly-1.md",
-    "_notes/2020-02-05-information-theory-podcast.md",
     "_notes/2020-11-09-on-writing.md",
+    "_notes/2020-11-13-somatic-memory.md",
     "_notes/2020-11-09-meditations.md",
+    "_notes/2020-10-01-weekly-1.md",
+    "List of somatic memory.md",
+    "_drafts/References for markdown features.md",
+    "_drafts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
     "_drafts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
-    "_posts/2020-02-13-terraforming.md",
-    "_posts/2020-11-05-weekly-1.md",
-    "_drafts/2020-05-01-Introduction-to-simply-jekyll.md",
-    "_drafts/2020-11-09-meditations.md"
+    "_drafts/2020-03-01-How-to-setup-simply-jekyll.md",
+    "_notes/Untitled.md"
   ]
 }
