@@ -21,6 +21,6 @@ this site was made using Raghuveer's theme [Simply Jekyll](https://simply-jekyll
 
 *as of 05.11.20*
 
-- public sector officer (an interesting context where i extract & build a knowledge base on the side)
-- [codinggirls](https://www.facebook.com/CodingGirls/) marketing & events [[currently conducting the [Code with Cloud programme](http://cloud.codinggirls.sg) where we help women get Google-Cloud certified::rmn]]
+- public sector officer
+- [codinggirls](https://www.facebook.com/CodingGirls/) marketing & events [[recently conducted the [Code with Cloud programme](http://cloud.codinggirls.sg) where we helped women get Google-Cloud certified::rmn]]
 - [school of poetic computation](https://www.are.na/digital-love-languages) alumni

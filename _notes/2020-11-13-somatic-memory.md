@@ -14,7 +14,8 @@ In this parallel place, how are we embodied?
 Here's a list of ways i get entangled with my devices and its digital spaces:
 
 - when i ctrl-c, i feel like i'm holding onto something, and i need to release them, let go of them. my hands are full!  
-- when i am doing a battery-heavy task on my phone, e.g. watching a youtube video on mobile data, i feel (inside) the need to conserve energy.
+- when i open multiple apps, programs or browser tabs, 
+- when my device's battery is low, i feel anxious and like i'm about to be depleted very soon 
 
 
 ---
