@@ -4,14 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "29e0792e3b40e5ff",
+        "id": "27fab690d12a56dd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2020-02-05-information-theory-podcast.md",
-            "mode": "source"
+            "file": "_notes/2020-12-28-fractal-00.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "670455e6061f9441",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/2020-12-28-fractal-00.md",
+            "mode": "preview"
           }
         }
       }
@@ -61,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 548
+    "width": 316.5
   },
   "right": {
     "id": "eab6ae4530363237",
@@ -77,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2020-02-05-information-theory-podcast.md",
+                "file": "_notes/2020-12-28-fractal-00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +103,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -102,27 +114,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2020-02-05-information-theory-podcast.md"
+                "file": "_notes/2020-12-28-fractal-00.md"
+              }
+            }
+          },
+          {
+            "id": "facccb048c24056f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/References for markdown features.md",
+                "mode": "preview"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 513.7792663574219,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/2020-02-05-information-theory-podcast.md",
+    "_notes/2020-12-28-fractal-00.md",
+    "_drafts/List of things to do with blog.md",
+    "_notes/2021-03-21-minds-as-portals.md",
+    "_posts/2020-02-13-terraforming.md",
+    "_notes/2020-11-13-somatic-memory.md",
+    "_notes/2021-03-21-on-paradigms.md",
     "_notes/2020-10-01-weekly-1.md",
     "_notes/2020-11-09-meditations.md",
     "_notes/2020-11-09-on-writing.md",
-    "_notes/2020-11-13-somatic-memory.md",
-    "_drafts/References for markdown features.md",
-    "_drafts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
-    "_drafts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
-    "List of somatic memory.md",
-    "_drafts/2020-03-01-How-to-setup-simply-jekyll.md"
+    "_posts/2020-12-28-fractal-00.md"
   ]
 }

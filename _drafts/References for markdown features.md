@@ -4,7 +4,7 @@ example:
 
 # link
 - **Internal links:** **[​[**​Some Link**]]**
-
+[[References for markdown features]]
 - **External links:** **[​[​**Some Text::https://address-to-the-website**]]**
 
 # box

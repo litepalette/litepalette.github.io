@@ -18,3 +18,9 @@ For example, writing [[touching ephemera]] from different headspaces and time.
 So instead of chiding myself (so close to doing this) for not finishing it, i revisit, i rethink, i co-opt those words into new contexts, new headspaces. And this might do a disservice to a past self who wrote the original piece - but perhaps this is the value of writing. 
 
 I tell myself that this is a gift, for I should embrace the inter-forging of selves and the chimeric creation of mental spaces gained from different timelines. 
+
+---
+
+revisiting this thread by visa
+
+https://twitter.com/visakanv/status/1087430231227457536 - *our relationship with our own writing changes overtime*
