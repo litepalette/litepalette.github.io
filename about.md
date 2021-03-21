@@ -22,6 +22,6 @@ this site was made using Raghuveer's theme [Simply Jekyll](https://simply-jekyll
 *as of 05.11.20*
 
 - public sector officer
-- [codinggirls](https://www.facebook.com/CodingGirls/) marketing & events [[recently conducted the [Code with Cloud programme](http://cloud.codinggirls.sg) where we helped women get Google-Cloud certified::rmn]]
+- [codinggirls](https://www.facebook.com/CodingGirls/) marketing & events
 - [school of poetic computation](https://www.are.na/digital-love-languages) alumni
 - [are.na channel](https://www.are.na/vanessa-auraphin)
