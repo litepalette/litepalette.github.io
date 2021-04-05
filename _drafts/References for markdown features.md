@@ -1,6 +1,8 @@
 # images
 example: 
 ![wayankarja](\assets\img\wayankarja.jpg)
+![](\assets\img\treecloseup.png) - example
+
 
 # link
 - **Internal links:** **[​[**​Some Link**]]**
