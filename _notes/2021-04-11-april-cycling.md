@@ -4,6 +4,10 @@ excerpt: <!--blank-->
 tags: personal
 ---
 
-why
+
 
 ![kite-flying](/assets/img/kite-flying.mp4)
+
+<video width="600" height="800" controls="controls">
+  <source src="/assets/img/kite-flying.mp4">
+</video>
