@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-04-11-april-cycling.md",
+            "file": "_notes/2021-04-06-streams.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-11-april-cycling.md",
+                "file": "_notes/2021-04-06-streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2021-04-11-april-cycling.md"
+                "file": "_notes/2021-04-06-streams.md"
               }
             }
           },
@@ -144,15 +144,15 @@
   },
   "active": "58cd4cf6f4a9e5c3",
   "lastOpenFiles": [
+    "_notes/2021-04-06-streams.md",
+    "_site/assets/img/stream.png",
     "_notes/2021-04-11-april-cycling.md",
     "_posts/2020-02-13-terraforming.md",
     "_notes/2021-03-21-on-paradigms.md",
     "_notes/Untitled.md",
-    "_notes/2021-04-06-streams.md",
     "_drafts/Ideas for litepalette.md",
     "_notes/2021-04-06-ambiance.md",
     "about.md",
-    "_posts/2021-03-28-dust-zine.md",
-    "_notes/2020-12-28-fractal-00.md"
+    "_posts/2021-03-28-dust-zine.md"
   ]
 }

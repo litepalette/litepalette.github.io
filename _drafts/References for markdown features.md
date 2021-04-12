@@ -1,3 +1,14 @@
+# audio
+<center><audio src="/assets/img/NAMEHERE.m4a" controls autoplay></audio><center>
+
+# video
+
+{% include video.html id=page.videoId %} in your markdown page
+
+then add in front matter "videoId: name of file"
+
+might need to make different _includes for different sizes. 
+
 # images
 example: 
 ![wayankarja](\assets\img\wayankarja.jpg)
