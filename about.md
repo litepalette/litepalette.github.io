@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title:
 permalink: /about/
 content-type: eg
 ---
@@ -13,9 +13,9 @@ you can also read my moods and stuff and heartful [notes](http://litepalette.git
 
 this blog makes up a palette of looseleaf writings - little blocks of writings on topics i find illumining. sometimes ordered, mostly not. weaving together convergences across humanities, critical theory and computer science.
 
-💌 vanessaauraphin@gmail.com. 
+💌 vanessaauraphin[at]gmail.com. 
 
-this site was made using Raghuveer's theme [Simply Jekyll](https://simply-jekyll.netlify.app/). 
+this site was made using Raghuveer's theme [Simply Jekyll](https://simply-jekyll.netlify.app/).
 
 ---
 

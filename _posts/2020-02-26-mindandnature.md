@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ecological Anthropology & Cybernetics
-tags: [Nature Culture]
+tags: Nature
 excerpt: Brief encounters with Gregory Bateson
 ---
 

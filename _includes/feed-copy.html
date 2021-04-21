@@ -1,15 +1,23 @@
-{%- if page.permalink == "/" -%}
+<!-- {%- if page.permalink == "/" -%}
     {%- for post in site.posts -%}
 
-        <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{post.url}}">
+        <div  data-url="{{site.url}}{{post.url}}">
             <a href="{{post.url}}" style="text-decoration: none; color: #555555;">
 
+            {%- if post.status == "Ongoing" or post.status == "ongoing" -%}
+            <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+            <li style="padding: 0 5px; border-radius: 10px;" class="tag"><b>Status: </b>{{post.status | capitalize }}</li>
+            </ul>
+            <p style="margin-top: 0px;" class="feed-title">{{ post.title }}</p>
+            {%- else -%}
+
             <p class="feed-title">{{ post.title }}</p>
+            {%- endif -%}
+            <p class="feed-excerpt">{{post.excerpt}}</p>
 
             <!--{{ item.content | strip_html | strip | escape | truncate: 200}}-->
             </a>
-        </div>
-          <p class="feed-excerpt">{{post.excerpt}}</p>
+
     {%- endfor -%}
 {%- endif -%}
 
@@ -28,10 +36,11 @@
             {%- else -%}
             <p class="feed-title">{{ post.title }}</p>
             {%- endif -%}
+            <p class="feed-excerpt">{{post.excerpt}}</p>
+
             <!--{{ item.content | strip_html | strip | escape | truncate: 200}}-->
             </a>
         </div>
-          <p class="feed-excerpt">{{post.excerpt}}</p>
     {%- endfor -%}
 {%- endif -%}
 

@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9dca7256509c78",
+        "id": "a6b1ba593bd8a52d",
         "type": "leaf",
-        "dimension": 39.84327908378541,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-02-13-terraforming.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "58cd4cf6f4a9e5c3",
-        "type": "leaf",
-        "dimension": 60.15672091621458,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/2021-04-06-streams.md",
+            "file": "_notes/genshin-music.md",
             "mode": "source"
           }
         }
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "![",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "eab6ae4530363237",
@@ -91,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-06-streams.md",
+                "file": "_notes/genshin-music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2021-04-06-streams.md"
+                "file": "_notes/genshin-music.md"
               }
             }
           },
@@ -139,20 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 513.7792663574219,
-    "collapsed": true
+    "width": 513.7792663574219
   },
-  "active": "58cd4cf6f4a9e5c3",
+  "active": "a6b1ba593bd8a52d",
   "lastOpenFiles": [
-    "_notes/2021-04-06-streams.md",
-    "_site/assets/img/stream.png",
+    "_notes/genshin-music.md",
+    "_posts/2020-05-10-cosmology.md",
+    "_posts/2020-06-01-unfoldings.md",
+    "_notes/2020-12-28-fractal-00.md",
     "_notes/2021-04-11-april-cycling.md",
-    "_posts/2020-02-13-terraforming.md",
-    "_notes/2021-03-21-on-paradigms.md",
+    "_notes/2021-04-06-streams.md",
     "_notes/Untitled.md",
-    "_drafts/Ideas for litepalette.md",
-    "_notes/2021-04-06-ambiance.md",
-    "about.md",
-    "_posts/2021-03-28-dust-zine.md"
+    "_notes/2020-02-05-information-theory-podcast.md",
+    "_notes/2020-11-09-meditations.md",
+    "_posts/2020-02-26-mindandnature.md"
   ]
 }

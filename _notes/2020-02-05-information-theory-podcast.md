@@ -7,8 +7,6 @@ excerpt: Your brain on psychedelics to life in the universe
 Information theory seems to permeate multiple podcasts I've been listening to. It is also referred to in some media studies text I read; planning to understand this further, more intimately. 
 
 
-
-
 Pooling together insights/learnings from the following podcast episodes: 
 
 - Mindscape: Sean Carroll with Robin Carhert-Harris
