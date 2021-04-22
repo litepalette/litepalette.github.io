@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-04-23-names.md",
+            "file": "_notes/2021-04-23-stories.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-23-names.md",
+                "file": "_notes/2021-04-23-stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2021-04-23-names.md"
+                "file": "_notes/2021-04-23-stories.md"
               }
             }
           },
@@ -141,9 +141,9 @@
   },
   "active": "a6b1ba593bd8a52d",
   "lastOpenFiles": [
+    "_notes/2021-04-23-stories.md",
     "_notes/2021-04-23-names.md",
     "_notes/2020-11-13-somatic-memory.md",
-    "_notes/2021-04-23-stories.md",
     "_notes/Untitled.md",
     "_drafts/2020-02-01-How-to-use-simply-jekyll-features-on-your-website.md",
     "_notes/genshin-music.md",
