@@ -490,13 +490,12 @@ hr::after {
 }
 
 
-.home, .categories, .rss a:link {
+.home a:link, .categories a:link, .rss a:link {
   text-decoration: none !important;
 }
 
-.home, .categories, .rss a:hover {
+.home a:hover, .categories a:hover, .rss a:hover {
   text-decoration: underline !important;
-
 }
 
 
