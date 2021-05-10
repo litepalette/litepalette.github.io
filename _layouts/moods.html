@@ -1,0 +1,17 @@
+---
+layout: post
+title: moods
+---
+
+<h3><i>Tracking my preoccupations...</i></h3>
+
+
+<ul>
+  {% for mood in site.moods %}
+    <li>
+      <strong>{{ mood.title }}</strong>
+      <p>{{ mood.content }}</p>
+      <hr>
+    </li>
+      {% endfor %}
+</ul>

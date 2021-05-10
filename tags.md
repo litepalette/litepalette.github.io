@@ -16,12 +16,12 @@ content-type: eg
     color: #4183c4;
 }
 </style>
-
+<!--- {{ tag | first }}--->
 <main>
     {% for tag in site.tags %}
-        <p id="{{ tag | first }}">{{ tag | first | capitalize }}</p>
+        <a class="tagdesign">{{ tag | first | capitalize }}</a>
         {% for post in tag.last %}
-            <ul id="category-content" style="padding-bottom: 0.6em; list-style: none;"><a href="{{post.url}}">{{ post.title }}</a></ul>
+            <ul id="category-content" style="padding-bottom: 0.6em; list-style: circle black;"><a href="{{post.url}}">{{ post.title }}</a></ul>
         {% endfor %}
     {% endfor %}
     <br/>

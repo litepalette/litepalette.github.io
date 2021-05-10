@@ -6,7 +6,7 @@ notes_url: "https://litepalette.github.io"
 excerpt_separator: <!--more-->
 
 favicon: /assets/img/favicon.png
-copyright_name: 
+copyright_name:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://litepalette.github.io" # ://simply-jekyll.netlify.app/, the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
@@ -14,8 +14,9 @@ encoding: utf-8
 # Build settings
 theme: null
 plugins:
-  - jekyll-feed 
-  - jekyll-sitemap 
+  - jekyll-feed
+  - jekyll-sitemap
+
 
 markdown: kramdown
 
@@ -33,6 +34,12 @@ collections:
     notes:
       output: true
       permalink: /notes/:title
+    moods:
+      output: true
+      permalink: /moods/
+    photodiary:
+      output: true
+      permalink: /photodiary
 
 disqus:
   shortname: raghuveerdotnet
@@ -51,3 +58,16 @@ defaults:
     values:
       layout: post
       content-type: notes
+  - scope:
+      path: ""
+      type: moods
+    values:
+      layout: moods
+      content-type: moods
+  - scope:
+      path: ""
+      type: photodiary
+    values:
+      permalink: /photodiary/:title
+      layout: snapshots
+      content-type: photodiary

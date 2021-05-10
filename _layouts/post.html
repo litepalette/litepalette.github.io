@@ -66,6 +66,15 @@
 
             {%- endif -%}
 
+            {%- if page.content-type == "moods" -%}
+            <main>
+
+                {{post.title}}
+                {%- include content.html  -%}
+
+            </main>
+
+            {%- endif -%}
 
             {%- include comments.html -%}
             {%- include footer.html -%}
@@ -78,7 +87,25 @@
         document.getElementById("scroll-to-top").addEventListener("click", function() {
             window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
         });
+        setInterval(change_background, 1000 * 60 * 60);
+
+        function change_background() {
+          var d = new Date();
+          var n = d.getHours();
+          console.log(n);
+          if (n == 23 || 18 < n < 23 || n < 6 ) {
+            document.body.className = "night";
+          } else {
+            document.body.className = "day";
+            console.log("true");
+          }
+
+        }
+
+        change_background();
+
     </script>
+
     {%- include contextmenu.html -%}
 </body>
 </html>

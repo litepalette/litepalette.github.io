@@ -8,9 +8,11 @@ status: Ongoing
 - fog computing
 - cloud computing
 - data lake
+- data warehouse
 - syntactic sugar
 - root file
-- tree file
+- file tree
+- breadcrumbs
 
 ---
 
