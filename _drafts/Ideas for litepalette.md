@@ -5,12 +5,13 @@ much inspiration ; but all stems from a good knowledge of html and css. i can do
 
 - [x] change icons for main menu
 
-- [ ] add a "last edited" portion under each post
+- [ ] add a "last edited" portion under each post. put last edited post at the top. 
 
 - [ ] Adding audio player mp3 to every post so the reader knows my aural space when i am writing the posts. 
 
 - [ ] randomising snapshots
 	- https://jekyllcodex.org/without-plugin/randomize/
+	- show only one post, maybe
 
 
 - [ ] moodboard link pinned 📌 to the header. 

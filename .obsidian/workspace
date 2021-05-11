@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-04-25-bcf.md",
+            "file": "_posts/2021-05-11-bcg-framework.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-25-bcf.md",
+                "file": "_posts/2021-05-11-bcg-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2021-04-25-bcf.md"
+                "file": "_posts/2021-05-11-bcg-framework.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,15 +140,15 @@
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
+    "_posts/2021-05-11-bcg-framework.md",
+    "_drafts/2020-04-01-Exploring-the-features-of-simply-jekyll.md",
+    "_posts/2021-04-25-bcf.md",
     "_notes/2021-04-25-bcf.md",
-    "_notes/2021-05-03-cybernetic-epistemology.md",
-    "_notes/2021-04-11-april-cycling.md",
-    "_notes/2021-04-23-stories.md",
-    "_notes/2021-05-03-my-voice.md",
+    "_notes/2021-05-11-bcg-framework.md",
+    "_notes/2021-05-11-digital-garden.md",
+    "_posts/2020-02-26-mindandnature.md",
+    "_posts/2020-05-10-cosmology.md",
     "_posts/2021-03-28-dust-zine.md",
-    "_notes/2021-04-06-streams.md",
-    "_moods/10.05.md",
-    "_moods/28.04.md",
-    "_moods/Untitled.md"
+    "_posts/2020-06-01-unfoldings.md"
   ]
 }
