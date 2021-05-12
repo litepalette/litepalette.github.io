@@ -1,10 +1,12 @@
 ---
 layout: snapshots
 ---
-
-{% assign posts = site.photodiary %}
-{% for vibes in posts %}
- <h2> {{vibes.title | sample}} </h2>
- <p>{{vibes.content | sample}} </p>
- <p>{{vibes.url}}</p>
-{% endfor %}
+<ul>
+  {% for vibes in site.photodiary  %}
+    <li>
+      <strong>{{ vibes.title }}</strong>
+      <p>{{ vibes.content }}</p>
+      <hr>
+    </li>
+    {% endfor %}
+</ul>

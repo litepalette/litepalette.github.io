@@ -7,7 +7,7 @@ title: moods
 
 
 <ul>
-  {% for mood in site.moods %}
+  {% for mood in site.moods reversed %}
     <li>
       <strong>{{ mood.title }}</strong>
       <p>{{ mood.content }}</p>

@@ -4,8 +4,8 @@
   <!---<script src="/assets/js/photodiary.js"></script> --->
   <script type="text/javascript">
 
-    var postsHREF = [{% for post in site.photodiary %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-    var postsTitle = [{% for post in site.photodiary %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+/*    var postsHREF = [{% for post in site.photodiary %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    var postsTitle = [{% for post in site.photodiary %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}]; */
 
 
 </script>
@@ -13,64 +13,91 @@
   </head>
 <style>
 html {
-/*  background-image: url("https://assets.codepen.io/430361/Sunset.svg");*/
-  background-color: gold;
+  background-image: url("https://assets.codepen.io/430361/Sunset.svg");
+/*  background-color: gold;*/
 	background-position: center;
 	background-repeat: no-repeat;
+  background-attachment: fixed;
 	background-size: cover;
-	width: 100vw;
-	height: 100vh;
 }
 
 
-h1, h2, p, ul {
+h1, h2, ul {
   font-family: monospace;
 }
+
+p {
+  font-family: monospace;
+}
+
 .header {
   position: fixed;
   left: 20px;
+  margin: auto;
 }
 
-
-#container {
-  display: flex;
-  position: relative;
-  flex-direction: column;
-  justify-content: center;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  bottom: 0px;
-  align-items: center;
-  max-width: 1550px;
+.header a {
+  text-decoration: none;
+  color: black;
 }
 
-#memory {
+.box {
+  width: 600px;
+  margin: auto;
+  padding: 25px;
+  border: 0px dashed black;
+}
+
+.memorybutton {
   font-family: monospace;
-  color: red;
+  text-align: center;
+
 }
 
+
+img {
+    max-width: 100%;
+    height: auto;
+}
   </style>
 
 
   <body>
 
-    return <a href="/"> home</a>
-
     <div class="header">
-      <h1> photo diary 📖 </h1>
+      <p><a href="/"> home</a></p>
+      <h1><a href="/photodiary"> photo diary 📖</a> </h1>
       <p> for preserving the fidelity of memories and auras </p>
-
-
-
     </div>
 
-    <div id="container">
-      <button onclick="newVibes()">Load a random memory</button>
+    <div class="box">
+<!-- <button onclick="newVibes()">Load a random memory</button>-->
+<div class="memorybutton">
+  {% assign posts = site.photodiary | where_exp:"post", "post.url != page.url" | sample: 7 %}
+    {% for post in posts limit:1 %}
+        <a class="prev" href="{{post.url}}">Load a random memory</a>
+    {% endfor %}
+
+</div>
+  {%- if page.content-type == "photodiary" -%}
+  <main>
+<!--    <div class="PageNavigation">
+      {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">Load a random memory</a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">Load a random memory</a>
+      {% endif %}
+    </div>-->
 
 
-      <p id="memory"> </p>
+    <h2>{{page.title}}</h2>
+    <p>  {{content}} </p>
+
+
+  </main>
+      {%- endif -%}
+
 </div>
 
 <!---<ul>
@@ -88,11 +115,7 @@ h1, h2, p, ul {
 
 
 <!---
-      {% assign posts = site.photodiary %}
-      {% for vibes in posts %}
-       <h2> {{vibes.title}} </h2>
-       <p>{{vibes.content}} </p>
-      {% endfor %} --->
+       --->
 
 
 <!---  {% for vibes in site.photodiary %}
@@ -104,7 +127,7 @@ h1, h2, p, ul {
       {% endfor %}--->
 
       <script type="text/javascript">
-
+/*
       function newVibes() {
         var postContent = [{% for post in site.photodiary %}
           "{{ post.content | sample:1 }}"

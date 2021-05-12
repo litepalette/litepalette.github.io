@@ -1,7 +1,7 @@
 ---
 title: Collection of (digital) somatic memory
 excerpt: <!--blank-->
-tags: Covid-19, Habits
+tags: Covid-19 Habits
 ---
 
 {:.boxit}
