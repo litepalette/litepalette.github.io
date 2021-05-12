@@ -73,9 +73,9 @@ img {
     <div class="box">
 <!-- <button onclick="newVibes()">Load a random memory</button>-->
 <div class="memorybutton">
-  {% assign posts = site.photodiary | where_exp:"post", "post.url != page.url" | sample: 7 %}
+  {% assign posts = site.photodiary | where_exp:"post", "post.url != page.url" | sample: 20 %}
     {% for post in posts limit:1 %}
-        <a class="prev" href="{{post.url}}">Load a random memory</a>
+        <a class="prev" href="{{post.url}}">Load a memory</a>
     {% endfor %}
 
 </div>
