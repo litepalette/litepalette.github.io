@@ -70,34 +70,23 @@ img {
       <p> for preserving the fidelity of memories and auras </p>
     </div>
 
-    <div class="box">
+<div class="box">
 <!-- <button onclick="newVibes()">Load a random memory</button>-->
 <div class="memorybutton">
-  {% assign posts = site.photodiary | where_exp:"post", "post.url != page.url" | sample: 20 %}
-    {% for post in posts limit:1 %}
+
+      {% assign posts = site.photodiary | where_exp:"post", "post.url != page.url" | sample:8 %}
+        {% for post in posts limit:1 %}
         <a class="prev" href="{{post.url}}">Load a memory</a>
     {% endfor %}
 
 </div>
-  {%- if page.content-type == "photodiary" -%}
   <main>
-<!--    <div class="PageNavigation">
-      {% if page.previous.url %}
-        <a class="prev" href="{{page.previous.url}}">Load a random memory</a>
-      {% endif %}
-      {% if page.next.url %}
-        <a class="next" href="{{page.next.url}}">Load a random memory</a>
-      {% endif %}
-    </div>-->
-
-
-    <h2>{{page.title}}</h2>
-    <p>  {{content}} </p>
-
+    {%- if page.content-type == "photodiary" -%}
+      <h2>{{page.title}}</h2>
+      <p>  {{content}} </p>
+        {%- endif -%}
 
   </main>
-      {%- endif -%}
-
 </div>
 
 <!---<ul>
@@ -111,73 +100,6 @@ img {
 </ul>--->
 
 
-
-
-
-<!---
-       --->
-
-
-<!---  {% for vibes in site.photodiary %}
-    <li>
-      <strong>{{ vibes.title }}</strong>
-      <p>{{ vibes.content }}</p>
-      <hr>
-    </li>
-      {% endfor %}--->
-
-      <script type="text/javascript">
-/*
-      function newVibes() {
-        var postContent = [{% for post in site.photodiary %}
-          "{{ post.content | sample:1 }}"
-          {% endfor %}
-        ]
-        console.log(postContent)
-
-      }
-    /*    var randomIndexUsed = [];
-        var counter = 0;
-        var numberOfPosts = 1;
-
-        while (counter < numberOfPosts)
-        {
-            var randomIndex;
-            var postHREF;
-            var postTitle;
-
-            randomIndex = Math.floor(Math.random() * postsHREF.length);
-
-            if (randomIndexUsed.indexOf(randomIndex) == "-1")
-            {
-                postHREF = postsHREF[randomIndex];
-                postTitle = postsTitle[randomIndex];
-
-
-                if (counter == (numberOfPosts - 1))
-                {
-                    function newVibes() {
-
-                      document.getElementById('memory').innerHTML = '<p>' + postTitle + '</a></p>';
-                      console.log("test22");
-                    }
-                }
-                else
-                {
-                    function newVibes() {
-                      document.getElementById('memory').innerHTML = '<p>' + postTitle + '</a></p>';
-                      console.log("test2");
-                    }
-                }
-
-                randomIndexUsed.push(randomIndex);
-
-              counter++;
-            }
-
-        } */
-
-      </script>
   </body>
 
 
