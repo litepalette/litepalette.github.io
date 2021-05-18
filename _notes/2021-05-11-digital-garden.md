@@ -1,6 +1,7 @@
 ---
 title: My Digital Garden
-excerpt: my feelings from me to you through digital lite streams
+excerpt: feelings from me to you through digital lite streams
+tags: Metaphors
 Status: Ongoing
 ---
 
@@ -11,18 +12,28 @@ Since I spend hours and days doing this, I thought to have a sort of self-reflex
 # History
 During the circuit breaker period (Singapore's version of a COVID-19 lockdown), I started discovering the communities for tools for thought, on Twitter and on Are.na. 
 
-Being an information hoarder who mostly used OneNote, I thought this was really nice
+Being an information hoarder who mostly used OneNote, I thought this was really nice.
 
 
-# Tools I use
+## "Lite Islands"
+Reflecting now, it was perhaps fortituous that I got into this deeply as I was taking part in SFPC's Digital Love Languages course while reading *Tales of Earthsea* by Ursula Le Guin. 
 
-Here is my "digital garden stack": 
+In the course, we learnt that naming was a kind of power ---- 
 
+
+# Tools I use now
+as of 17th May 2021.
+
+My digital garden stack: 
+
+- Pocket & Twitter bookmarks
 - Obsidian
-- Pocket
+	- I have one for personal use, and another for hosting my Github notes. 
 - Github Pages/Jekyll
-- Twitter Bookmarks
 - Notion (mainly for its Web Clipper)
 
-
 Previously, I toyed with Roam Research and Notion, but they weren't too ideal for storing and writing notes. 
+
+
+I kind of want to explore using decentralised or p2p social media networks or webhosting services. 
+

@@ -95,10 +95,10 @@
           var d = new Date();
           var n = d.getHours();
           console.log(n);
-          if (18 < n <= 23 || n < 6  ) {
+          if (n > 18 && n <=23 || n < 6 ) {
             document.body.className = "night";
             console.log("true-night")
-          } else if (n > 6 && n < 18){
+          } else if (n > 6 && n <= 18){
             document.body.className = "day";
             console.log("true-day");
           }

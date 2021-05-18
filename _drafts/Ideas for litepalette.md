@@ -1,11 +1,11 @@
 much inspiration ; but all stems from a good knowledge of html and css. i can do this
 
 # short-term
-- [x] under **notes**, arrange in chronological date order
+- [x] ~~under **notes**, arrange in chronological date order~~
 
-- [x] change icons for main menu
+- [x] ~~change icons for main menu~~
 
-- [ ] add a "last edited" portion under each post. put last edited post at the top. 
+- [ ] ==add a "last edited" portion under each post. put last edited post at the top.== 
 
 - [ ] Adding audio player mp3 to every post so the reader knows my aural space when i am writing the posts. 
 

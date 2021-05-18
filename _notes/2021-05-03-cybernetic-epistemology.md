@@ -2,8 +2,9 @@
 title: What is "cybernetic epistemology"?
 excerpt: <!--blank-->
 ---
+Recently, I am also thinking about [[Ambiance in Human-Machine Ecologies]]
 
-Came across the term from the book [[Possible Minds (2019)]]. 
+Came across the term from the book [[Possible Minds (2019)]] in the chapter written by [...]
 
 ---
 

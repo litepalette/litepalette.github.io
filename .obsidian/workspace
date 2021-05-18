@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_photodiary/swimming pool.md",
+            "file": "_moods/17.05.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_photodiary/swimming pool.md",
+                "file": "_moods/17.05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_photodiary/swimming pool.md"
+                "file": "_moods/17.05.md"
               }
             }
           },
@@ -131,24 +131,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 398.3999938964844,
-    "collapsed": true
+    "width": 398.3999938964844
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
-    "_photodiary/2010-02-20-swimming-pool.md",
-    "_photodiary/2020-04-04-circuit-breaker.md",
-    "_photodiary/2021-05-12-rainy-may.md",
-    "_photodiary/coast to coast trail.md",
-    "assets/img/bishanpark.jpg",
-    "_photodiary/Untitled.md",
-    "_photodiary/cycling in april.md",
-    "_photodiary/lantern rite festival.md",
+    "_moods/17.05.md",
+    "_moods/15.05.md",
+    "_notes/2021-05-11-digital-garden.md",
+    "_notes/2021-04-23-stories.md",
+    "_notes/2021-05-03-cybernetic-epistemology.md",
+    "_moods/Untitled.md",
+    "_notes/2021-03-21-minds-as-portals.md",
+    "_notes/2021-04-20-genshin-music.md",
     "_photodiary/behind my room.md",
-    "_photodiary/hortpark.md"
+    "_moods/28.04.md"
   ]
 }
