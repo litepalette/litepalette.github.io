@@ -1,14 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!---<script src="/assets/js/photodiary.js"></script> --->
+
   <script type="text/javascript">
+  <script>
+  
 
-/*    var postsHREF = [{% for post in site.photodiary %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-    var postsTitle = [{% for post in site.photodiary %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}]; */
+  </script>
+
+  <noscript mardown="1">
+
+  # Random Blog Post
+
+  To get a random post, turn on JavaScript!
+
+  </noscript>
 
 
-</script>
 
   </head>
 <style>
@@ -74,10 +82,7 @@ img {
 <!-- <button onclick="newVibes()">Load a random memory</button>-->
 <div class="memorybutton">
 
-    {% assign posts = site.photodiary | where_exp:"post", "post.url != page.url" | sample:8 %}
-        {% for post in posts limit:1 %}
-        <a class="prev" href="{{post.url}}">Load a memory</a>
-    {% endfor %}
+        <a class="prev" href="/random">Load a memory</a>
 
 </div>
   <main>

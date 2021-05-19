@@ -1,6 +1,7 @@
 ---
 title: What is "cybernetic epistemology"?
 excerpt: <!--blank-->
+tags: Cybernetics
 ---
 Recently, I am also thinking about [[Ambiance in Human-Machine Ecologies]]
 

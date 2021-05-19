@@ -1,7 +1,7 @@
 ---
-title: 🕊 on intense weirding and paradigm shifts
+title: 🕊 On intense weirding and paradigm shifts
 excerpt: <!--blank-->
-tags: personal
+tags: Personal
 ---
 
 > Keep speaking your boundaries, keep unapologetically taking up space, keep throwing your head back and basking in each moment even if it isn’t perfect.. ***Surprise yourself with how far you stray from the stories that make you act in smallness***. Create within yourself, the environment that your inner child would have thrived in, and then bring it to those around you. ***Act in complete opposition of your self limiting beliefs until they disappear***. It’s crazy how much power you reclaim when you act from your heart rather than your story-ridden mind. This is a reminder that you are free, we always forget.  — [Hitomi](https://www.instagram.com/yaknowme_hitomi/)

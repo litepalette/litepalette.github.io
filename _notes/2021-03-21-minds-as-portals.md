@@ -1,6 +1,6 @@
 ---
-title: mind as portals
-tags: thinking
+title: Mind as portals
+tags: Phenomenology Metaphors
 excerpt: <!--blank-->
 ---
 

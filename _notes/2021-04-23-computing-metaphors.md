@@ -1,7 +1,8 @@
 ---
-title: list of metaphors in the field of computing
+title: List of metaphors in the field of computing
 excerpt: like cloud computing, fog computing, etc... for researching a piece on linguistic/technological determinism 
 status: Ongoing
+tags: Metaphors
 ---
 
 
