@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-05-19-refreshing.md",
+            "file": "_notes/2021-05-18-poem-1.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-05-19-refreshing.md",
+                "file": "_notes/2021-05-18-poem-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2021-05-19-refreshing.md"
+                "file": "_notes/2021-05-18-poem-1.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
-    "_notes/2021-05-19-refreshing.md",
     "_notes/2021-05-18-poem-1.md",
+    "_notes/2021-05-19-refreshing.md",
     "_notes/2020-11-13-somatic-memory.md",
     "_notes/2021-05-11-digital-garden.md",
     "_notes/2020-11-09-on-writing.md",
