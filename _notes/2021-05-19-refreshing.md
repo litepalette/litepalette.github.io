@@ -4,7 +4,7 @@ excerpt: <!--blank-->
 ---
 *23:48* 
 
-🎵 listening to - [Mushishi & Mushishi Zoku Shou OST - All Ending Themes by Toshio Masuda | 蟲師](https://www.youtube.com/watch?v=_cPas5EPSsw)
+🎵 listening to - [Mushishi & Mushishi Zoku Shou OST - All Ending Themes by Toshio Masuda 蟲師](https://www.youtube.com/watch?v=_cPas5EPSsw)
 
 
 The same way you "spark joy" when you throw away things and clear the physical space, the same can be said about your virtual spaces. 
