@@ -13,8 +13,6 @@ you can also read my moods and stuff and heartful [notes](http://litepalette.git
 
 this blog makes up a palette of looseleaf writings - little blocks of writings on topics i find illumining. sometimes ordered, mostly not. weaving together convergences across humanities, critical theory and computer science.
 
-💌 vanessaauraphin[at]gmail.com. 
-
 this site was made using Raghuveer's theme [Simply Jekyll](https://simply-jekyll.netlify.app/). background gif in day time is from [Liliana Pita](https://www.artstation.com/artwork/lVyOLz), and nighttime image from unknown source.
 
 ---
