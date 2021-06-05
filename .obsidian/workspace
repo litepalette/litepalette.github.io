@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/2021-04-25-possible-minds.md",
+            "file": "_moods/26.05.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "eab6ae4530363237",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/2021-04-25-possible-minds.md",
+                "file": "_moods/26.05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/2021-04-25-possible-minds.md"
+                "file": "_moods/26.05.md"
               }
             }
           },
@@ -135,20 +136,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.3999938964844,
-    "collapsed": true
+    "width": 682.4000244140625
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
-    "_drafts/2021-04-25-possible-minds.md",
-    "_drafts/2021-04-26-spring-clean.md",
-    "_drafts/2021-05-11-bcg-framework.md",
-    "_drafts/2021-04-25-bcf.md",
-    "_drafts/2021-04-11-april-cycling.md",
-    "about.md",
-    "_posts/2020-05-07-covid-flow.md",
-    "_posts/2020-03-16-alientings.md",
-    "_posts/2020-02-26-mindandnature.md",
-    "_posts/2020-02-13-terraforming.md"
+    "_moods/26.06.md",
+    "_photodiary/cycling in april.md",
+    "_photodiary/lantern rite festival.md",
+    "_photodiary/on an evening jog in may.md",
+    "_photodiary/rainy may.md",
+    "_photodiary/sundays in early 2021.md",
+    "_photodiary/sunrise at lower peirce.md",
+    "_photodiary/swimming pool.md",
+    "_photodiary/Untitled.md",
+    "_photodiary/wangs.md"
   ]
 }

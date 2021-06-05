@@ -32,7 +32,7 @@ much inspiration ; but all stems from a good knowledge of html and css. i can do
 	- e.g. evy.garden
 
 - mood portals
-	- how would this look like?
+	- perhaps using photodiary as a place for 
 
 - snapshots of trees and a caption/alt text - since i capture so many pictures of trees. 
 	- a button to generate green pic!!!!!!!!!!!!!!! omgosh so excited. 
