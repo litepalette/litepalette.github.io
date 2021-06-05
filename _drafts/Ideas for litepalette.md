@@ -32,7 +32,8 @@ much inspiration ; but all stems from a good knowledge of html and css. i can do
 	- e.g. evy.garden
 
 - mood portals
-	- perhaps using photodiary as a place for 
+	- perhaps using photodiary as a place for circling through various memories
+		- I am thinking maybe there are other reasons for this; read more on memory lapping in neuroscience. 
 
 - snapshots of trees and a caption/alt text - since i capture so many pictures of trees. 
 	- a button to generate green pic!!!!!!!!!!!!!!! omgosh so excited. 

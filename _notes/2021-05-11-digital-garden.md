@@ -9,7 +9,7 @@ This is intended to reflect on my practice of digital gardening.
 
 Since I spend hours and days doing this, I thought to have a sort of self-reflexive exercise to have some clarity on my intentions. 
 
-Something I personally grapple with here is the extent of negotiating my selves here. By which I mean, how do I balance the tone of voice, my authenticity in self-expression, while wishing to write more "formally" on topics around complexity, technology etc? 
+Something I personally grapple with here is the extent of negotiating my selves here. By which I mean, how do I balance the tone of voice, my authenticity in self-expression, while wishing to write more "formally" on topics? 
 
 
 # History

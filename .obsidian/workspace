@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_moods/26.05.md",
+            "file": "_notes/2021-05-11-digital-garden.md",
             "mode": "source"
           }
         }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "eab6ae4530363237",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_moods/26.05.md",
+                "file": "_notes/2021-05-11-digital-garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_moods/26.05.md"
+                "file": "_notes/2021-05-11-digital-garden.md"
               }
             }
           },
@@ -140,15 +139,15 @@
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
-    "_moods/26.06.md",
-    "_photodiary/cycling in april.md",
-    "_photodiary/lantern rite festival.md",
-    "_photodiary/on an evening jog in may.md",
+    "_notes/2021-05-11-digital-garden.md",
+    "_notes/2021-04-23-stories.md",
+    "_notes/2021-05-03-cybernetic-epistemology.md",
+    "_notes/2021-05-18-poem-1.md",
+    "_notes/2021-05-19-refreshing.md",
+    "_notes/Hiro Isono's art.md",
     "_photodiary/rainy may.md",
-    "_photodiary/sundays in early 2021.md",
     "_photodiary/sunrise at lower peirce.md",
-    "_photodiary/swimming pool.md",
-    "_photodiary/Untitled.md",
-    "_photodiary/wangs.md"
+    "_photodiary/sundays in early 2021.md",
+    "_moods/26.06.md"
   ]
 }

@@ -19,7 +19,7 @@ Use liquid to get an the number of posts in the site
 {% endcomment %}
 
 {%- assign i = 0 -%}
-{%- for post in site.posts -%}
+{%- for post in site.photodiary -%}
     {%- assign i = i | plus: 1 -%}
 {%- endfor -%}
 
