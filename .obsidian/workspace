@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-05-11-digital-garden.md",
+            "file": "_moods/17.06.md",
             "mode": "source"
           }
         }
@@ -39,10 +39,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "metaphor",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-05-11-digital-garden.md",
+                "file": "_moods/17.06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2021-05-11-digital-garden.md"
+                "file": "_moods/17.06.md"
               }
             }
           },
@@ -135,19 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.4000244140625
+    "width": 682.4000244140625,
+    "collapsed": true
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
-    "_notes/2021-05-11-digital-garden.md",
-    "_notes/2021-04-23-stories.md",
-    "_notes/2021-05-03-cybernetic-epistemology.md",
-    "_notes/2021-05-18-poem-1.md",
-    "_notes/2021-05-19-refreshing.md",
-    "_notes/Hiro Isono's art.md",
-    "_photodiary/rainy may.md",
-    "_photodiary/sunrise at lower peirce.md",
-    "_photodiary/sundays in early 2021.md",
-    "_moods/26.06.md"
+    "_moods/17.06.md",
+    "_moods/23.04.md",
+    "_moods/Untitled 1.md",
+    "_moods/04.05.md",
+    "_moods/Untitled.md",
+    "_moods/21.04.md",
+    "_moods/15.05.md",
+    "_moods/17.05.md",
+    "_posts/2021-04-25-bcf.md",
+    "_posts/2021-03-28-dust-zine.md"
   ]
 }

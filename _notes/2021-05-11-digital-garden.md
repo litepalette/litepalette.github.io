@@ -12,16 +12,19 @@ Since I spend hours and days doing this, I thought to have a sort of self-reflex
 Something I personally grapple with here is the extent of negotiating my selves here. By which I mean, how do I balance the tone of voice, my authenticity in self-expression, while wishing to write more "formally" on topics? 
 
 
+*Other resources: are.na [channel](https://www.are.na/vanessa-auraphin/digital-mind-garden)*
+
 # History
-During the circuit breaker period (Singapore's version of a COVID-19 lockdown), I started discovering the communities for tools for thought, on Twitter and on Are.na. 
+During the circuit breaker period (Singapore's version of a COVID-19 lockdown), I started discovering the communities for tools for thought, on Twitter, on Are.na. 
 
-Being an information hoarder who mostly used OneNote, I thought this was really nice.
-
+Being an information hoarder, I thought this was really fitting
 
 ## "Lite Islands"
 Reflecting now, it was perhaps fortituous that I got into this deeply as I was taking part in SFPC's Digital Love Languages course while reading *Tales of Earthsea* by Ursula Le Guin. 
 
 In the course, we learnt that naming was a kind of power ---- 
+
+More than that, I felt that metaphors were a way for me to embrace play and lightness. 
 
 
 # Tools I use now
