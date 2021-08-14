@@ -1,5 +1,5 @@
 ---
-title: identifying the intrinsic from extrinsic motivations
+title: Identifying the intrinsic from extrinsic motivations
 excerpt: <!--blank-->
 ---
 

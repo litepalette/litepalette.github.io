@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-04-25-bcf.md",
+            "file": "_notes/2021-08-07-poem-2.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-04-25-bcf.md",
+                "file": "_notes/2021-08-07-poem-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-04-25-bcf.md"
+                "file": "_notes/2021-08-07-poem-2.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
-    "_posts/2021-04-25-bcf.md",
-    "_posts/2020-05-10-cosmology.md",
-    "_posts/2020-06-01-unfoldings.md",
-    "_posts/2021-03-28-dust-zine.md",
-    "_moods/17.06.md",
-    "_moods/23.04.md",
-    "_moods/Untitled 1.md",
-    "_moods/04.05.md",
-    "_moods/Untitled.md",
-    "_moods/21.04.md"
+    "_notes/2021-08-07-poem-2.md",
+    "_notes/2021-05-19-refreshing.md",
+    "_notes/2021-05-18-poem-1.md",
+    "_notes/Untitled.md",
+    "_notes/2021-06-15-reflections.md",
+    "_notes/Hiro Isono's art.md",
+    "_notes/2021-05-11-digital-garden.md",
+    "_moods/07.08.md",
+    "_moods/17.05.md",
+    "_moods/07.05.md"
   ]
 }
