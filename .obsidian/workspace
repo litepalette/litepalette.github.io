@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-08-07-poem-2.md",
-            "mode": "source"
+            "file": "_drafts/2021-08-07-poem-2.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-08-07-poem-2.md",
+                "file": "_drafts/2021-08-07-poem-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2021-08-07-poem-2.md"
+                "file": "_drafts/2021-08-07-poem-2.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "ee85ba7b04667ee3",
   "lastOpenFiles": [
-    "_notes/2021-08-07-poem-2.md",
-    "_notes/2021-05-19-refreshing.md",
+    "_drafts/2021-08-07-poem-2.md",
     "_notes/2021-05-18-poem-1.md",
-    "_notes/Untitled.md",
+    "_notes/2021-05-11-digital-garden.md",
+    "_notes/2021-05-19-refreshing.md",
     "_notes/2021-06-15-reflections.md",
     "_notes/Hiro Isono's art.md",
-    "_notes/2021-05-11-digital-garden.md",
-    "_moods/07.08.md",
-    "_moods/17.05.md",
-    "_moods/07.05.md"
+    "_moods/04.05.md",
+    "_photodiary/sundays in early 2021.md",
+    "_photodiary/cycling in april.md",
+    "_drafts/2021-04-11-april-cycling.md"
   ]
 }
